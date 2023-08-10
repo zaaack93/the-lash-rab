@@ -1,0 +1,54 @@
+<div class="rdc-press-section">
+  <div class="rdc-press-inner rdc-mx-auto">
+    <div class="rdc-press-texts">
+      {% for block in section.blocks %}
+        <div class="{% if forloop.index0 == 0 %}rdc-active{% endif %} rdc-press-text rdc-text-center">
+          {{ block.settings.press_text }}
+        </div>
+      {% endfor %}
+    </div>
+    <div class="rdc-press-logos rdc-d-flex rdc-ai-c rdc-jc-c rdc-mx-auto rdc-fw-wrap">
+      {% for block in section.blocks %}
+        <div class="{% if forloop.index0 == 0 %}rdc-active{% endif %} rdc-press-logo rdc-w-33p rdc-d-flex rdc-ai-c rdc-jc-c">
+          <img src="{{ block.settings.press_logo | img_url: '200x' }}">
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Press",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "press",
+        "name": "Press Block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "press_logo",
+            "label": "Logo"
+          },
+          {
+            "type": "textarea",
+            "id": "press_text",
+            "label": "Text"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Press"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

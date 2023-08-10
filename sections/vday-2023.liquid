@@ -1,0 +1,187 @@
+<div class="bonbon-main">
+  <div class="bonbon-inner">
+    <div class="bonbon-hero rdc-d-flex rdc-ai-c">
+   <div class="bonbon-hero-text rdc-w-50p">
+<h1 class="rdc-f-size-xxlarge">{{ section.settings.heading }}</h1>
+      <p class="rdc-f-size-reg">Only while stocks last.</p>
+     <a href="#bonbon-choose" class="rdc-d-flex"><span class="rdc-f-size-large">Start Now</span></a>
+    </div>
+        <div class="bonbon-hero-img rdc-w-50p rdc-d-flex">
+<img class="rdc-w-full" src="{{ section.settings.image | img_url: '1000x' }}">
+    </div>
+    </div>
+    {% comment %}
+    <div class="bonbon-text-banner rdc-f-size-xlarge">
+      <span>Love is in the air. Spoil yourself or a loved one this V-Day!</span>
+    </div>
+    <div class="bonbon-how bonbon-how-mobile rdc-p-5p">
+
+      <h2 class="rdc-f-size-xlarge">Here’s how it works...</h2>
+      <div class="bonbon-steps rdc-d-flex rdc-pt-4p rdc-flex-w">
+        <div class="bonbon-step bonbon-step-0 rdc-d-flex rdc-w-40p rdc-ai-fs rdc-jc-c">
+          <div class="rdc-w-50p">
+        <img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/LR_FEB3_WEB-2_2.jpg">
+          </div>
+          <div class="rdc-w-50p">
+            <h3 class="rdc-f-size-xlarge">Step 1</h3>
+            <p class="rdc-f-size-reg">Choose 2 or more products from the available options below.</p>
+          </div>
+      </div>
+          <div class="bonbon-step bonbon-step-1 rdc-m-v-hidden rdc-d-flex rdc-w-40p rdc-ai-fs rdc-jc-c">
+            <div class="rdc-w-50p">
+        <img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/LR_FEB3_WEB_4.jpg">
+            </div>
+          <div class="rdc-w-50p">
+            <h3 class="rdc-f-size-xlarge">Step 2</h3>
+            <p class="rdc-f-size-reg">Your order will be packed into our Love Case with some cheeky sweet treats and a beautiful card.</p>
+          </div>
+      </div>
+        
+        
+          <div class="bonbon-step bonbon-step-2 rdc-m-v-hidden rdc-d-flex rdc-w-33p rdc-ai-fs rdc-jc-c">
+            <div class="rdc-w-50p">
+        <img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/lr-bb-how-img-3_-_2.jpg">
+            </div>
+          <div class="rdc-w-50p">
+            <h3 class="rdc-f-size-xlarge">Step 3</h3>
+            <p class="rdc-f-size-reg">Our elves will lovingly pack your items and put them on the first available sleigh.</p>
+          </div>
+      </div>
+      
+        <span id="bb-step-arrow-prev" class="bb-step-arrow rdc-d-none rdc-m-d-flex rdc-cursor-p"><img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/next.png"></span>
+        <span id="bb-step-arrow-next" class="bb-step-arrow rdc-d-none rdc-m-d-flex rdc-cursor-p"><img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/next.png"></span>
+
+      </div>
+
+      <div class="bonbon-how-nav rdc-d-none rdc-m-d-flex rdc-jc-c">
+
+        <span class="bonbon-how-nav-0 rdc-active rdc-d-flex"></span>
+        <span class="bonbon-how-nav-1 rdc-d-flex"></span>
+        {% comment %}
+        <span class="bonbon-how-nav-2 rdc-d-flex"></span>
+        {% endcomment %}
+      </div>
+      {% endcomment %}
+    </div>
+    <div id="bonbon-choose" class="bonbon-choose rdc-p-5p rdc-sec-div-line">
+       <h2 class="rdc-f-size-xlarge">Step 1: Choose your products</h2>
+      <p class="rdc-text-center rdc-f-size-reg rdc-m-0">Choose 2 or more products from the available options below to unlock your 15% discount.</p>
+        <div class="bonbon-cards rdc-d-flex rdc-flex-w rdc-pt-4p">
+      {% for product in collections['bonbon-15'].products %}
+        {% if product.variants.size == 1 %}
+            <div class="bonbon-card rdc-p-20 rdc-w-33p {% if product.handle == 'love-case' %}rdc-d-none{% else %}rdc-d-flex{% endif %} rdc-jc-sb">
+          <div class="bonbon-card-upper">
+              <img src="{{ product.featured_image | img_url: "500x" }}">
+        <h4 class="rdc-f-size-medium">{{ product.title }}</h4>
+            <div class="rdc-d-flex rdc-ai-c rdc-jc-sb">
+             <span class="bb-card-price-box rdc-f-size-medium">
+               {% assign newPricePercentage = 85.0 %}
+         
+               <span class="bb-card-price-old">{{ product.price | money }}</span>
+               <span class="bb-card-price-new rdc-f-size-medium">{{ product.price | times: newPricePercentage | divided_by: 100 | round: 2 | money }}</span>
+             </span>
+
+            <div class="bb-save-tag rdc-d-flex rdc-jc-c rdc-text-center">
+              SAVE 15%
+            </div>
+          </div>
+               </div>
+<div class="bonbon-card-atc rdc-d-flex">
+  <div class="bonbon-card-qty rdc-w-25p rdc-d-flex rdc-jc-c">
+    <div class="bonbon-card-qty-inner rdc-d-flex rdc-ai-c rdc-jc-c rdc-w-full">
+    <span class="bb-card-qty-minus rdc-cursor-p rdc-f-size-medium">-</span>
+    <input class="rdc-text-center rdc-f-size-medium" type="number" name="bonbon-qty" value="1">
+        <span class="bb-card-qty-plus rdc-cursor-p rdc-f-size-medium">+</span>
+</div>
+    </div>
+    <div class="bonbon-card-btn rdc-w-75p">
+      <span  id="{{ product.first_available_variant.id }}" class="bb-card-atc-btn bonbon-btn rdc-f-size-medium rdc-d-flex rdc-jc-c">Add to cart</span>
+</div>
+</div>
+            </div>
+     
+          {% endif %}
+      {% endfor %}
+      </div>
+    </div>
+    {% comment %}
+    <div class="bonbon-note rdc-sec-div-line rdc-p-5p">
+ <div class="bonbon-note-inner">
+             <h2 class="rdc-f-size-xlarge">Step 2: Write a Christmas Message</h2>
+      <p class="rdc-text-center rdc-mx-auto rdc-f-size-reg">Whether you are gifting this Bon Bon to a special someone or you 
+        are spoiling your own lashes, add a love-filled message below and we will write it on a card for you.</p>
+ <div class="bonbon-note-box rdc-d-flex rdc-p-4p">
+ <div class="bonbon-note-box-img rdc-w-50p rdc-m-10">
+<img class="rdc-w-full" src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/lashmas.jpg">
+     
+    </div>
+    <div class="bonbon-note-box-textarea rdc-w-50p rdc-m-10">
+
+      <textarea name="bonbon-message" placeholder="Write your message here...."></textarea>
+    </div>
+      
+    </div>
+<span class="bb-mess-btn bonbon-btn rdc-f-size-medium">Submit message</span>
+   
+    </div>
+      
+    </div>
+     {% endcomment %}
+    <div class="bonbon-review rdc-sec-div-line rdc-p-5p">
+       <div class="bonbon-review-wrapper rdc-mx-auto">
+                   <h2 class="rdc-f-size-xlarge">Step 2: Review your Lash Love Bundle</h2>
+      <p class="rdc-text-center rdc-f-size-reg">Review your Lash Love Bundle below and proceed to checkout.</p>
+      <div class="bonbon-review-inner">
+        <div class="bonbon-review-summary rdc-d-flex rdc-jc-sb rdc-py-4p rdc-mb-5p">
+          <div class="bonbon-review-summary-left">
+            <span class="rdc-d-flex"><img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/files/lr-bb-order-review-cart-icon.svg"><p class="rdc-f-size-reg">Order Summary</p></span>
+        </div>
+            <div class="bonbon-review-summary-right">
+        </div>
+        </div>
+      <div class="bonbon-review-item bonbon-review-free rdc-d-none rdc-jc-sb rdc-ai-c">
+        <div class="bonbon-review-item-left rdc-d-flex rdc-ai-c">
+        <div class="bonbon-review-item-img">
+        <img src="https://cdn.shopify.com/s/files/1/0503/1336/3649/products/TLR_ECOMM_2024PX-35.jpg">
+        <span>1</span>
+        </div>
+        
+<div><h4 class="rdc-f-size-medium">Love Case</h4></div>
+          </div>
+         <div class="bonbon-review-item-right">
+<div><span class="bb-card-price-old rdc-f-size-medium">$9.99</span>
+<span class="bb-card-price-new rdc-f-size-medium">$8.49</span></div>
+           </div>
+      </div>
+          <div class="bonbon-review-items">
+    </div>
+        </div>
+      <a class="bb-checkcout-link rdc-disabled rdc-d-flex rdc-mx-auto"><span class="bb-mess-btn bonbon-btn rdc-f-size-medium">Checkout now</span></a>
+  </div>
+        </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Bundle Builder",
+    "class": "bundle-builder",
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading"
+      },
+       {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Bundle Builder"
+      }
+    ]
+  }
+
+{% endschema %}

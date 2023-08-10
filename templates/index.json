@@ -1,0 +1,737 @@
+{
+  "sections": {
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "16359276425da8ce46-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Landscape_hero_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Lash_Rehab_-_Hero.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "content_max_width": 800,
+            "subheading": "Australia's #1 Lash Growth Serum",
+            "title": "Longer, fuller, thicker lashes in 90 days.",
+            "title_size": "hsl-style",
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "Shop All",
+            "button_url_2": "shopify:\/\/collections\/all",
+            "text_alignment": "bottom left",
+            "heading_highlight_text": "",
+            "heading_highlight_font": false,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "#ffffff",
+            "heading_highlight_gradient": "",
+            "mob_title": "Longer, fuller, thicker lashes in less than 90 days.",
+            "mob_pri_btn_link": "shopify:\/\/collections\/all",
+            "mob_pri_btn_text": "SHOP ALL PRODUCTS",
+            "mob_btn_co": "Grow your lashes or get your money back.",
+            "mob_sec_btn_link": "",
+            "mob_sec_btn_text": "",
+            "mob_sp": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0503\/1336\/3649\/files\/lash_stars.svg\"><span>4.8<\/span><span>1,614 Reviews<\/span>"
+          }
+        },
+        "2f2291ef-5d32-4a61-9c15-bc50d8ebe060": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/30_OFF_1.png",
+            "mobile_image": "shopify:\/\/shop_images\/30_OFF_2.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "content_max_width": 800,
+            "subheading": "",
+            "title": "",
+            "title_size": "hsl-style",
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center",
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": "",
+            "mob_title": "Longer, fuller, thicker lashes in less than 90 days",
+            "mob_pri_btn_link": "shopify:\/\/collections\/all",
+            "mob_pri_btn_text": "Shop All",
+            "mob_btn_co": "",
+            "mob_sec_btn_link": "",
+            "mob_sec_btn_text": "",
+            "mob_sp": "Over 1500 5-star reviews"
+          }
+        }
+      },
+      "block_order": [
+        "16359276425da8ce46-1",
+        "2f2291ef-5d32-4a61-9c15-bc50d8ebe060"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow",
+        "color_scheme": "2",
+        "slide_transition": "zoom",
+        "slide_navigation": "arrows top-right",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "16615097564a250284": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "ef3a317c-ceb9-43e7-9179-0a6c2edcd0f2": {
+          "type": "icon",
+          "settings": {
+            "icon": "heart",
+            "icon_width": 50,
+            "color": "#ffffff"
+          }
+        },
+        "1661509756c2acbd16-0": {
+          "type": "text",
+          "settings": {
+            "text": "Life's too short for little lashes",
+            "color": "#e84844",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "7447ac84-f933-41b6-a6ac-f001740f6c0b": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_mark_in_circle",
+            "icon_width": 50,
+            "color": "#ffffff"
+          }
+        },
+        "7f9ecaa3-1695-49bf-a884-9be7dbffc2d5": {
+          "type": "text",
+          "settings": {
+            "text": "See results or money back",
+            "color": "#e84844",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "01022422-3fa6-499f-96ef-b5cc5fee3ec9": {
+          "type": "icon",
+          "settings": {
+            "icon": "star",
+            "icon_width": 50,
+            "color": "#ffffff"
+          }
+        },
+        "ee374d55-5f29-4804-bf59-c37814cce62a": {
+          "type": "text",
+          "settings": {
+            "text": "1000's of 5-Star Reviews",
+            "color": "#e84844",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "ef3a317c-ceb9-43e7-9179-0a6c2edcd0f2",
+        "1661509756c2acbd16-0",
+        "7447ac84-f933-41b6-a6ac-f001740f6c0b",
+        "7f9ecaa3-1695-49bf-a884-9be7dbffc2d5",
+        "01022422-3fa6-499f-96ef-b5cc5fee3ec9",
+        "ee374d55-5f29-4804-bf59-c37814cce62a"
+      ],
+      "settings": {
+        "text_size": 32,
+        "vertical_padding": 15,
+        "speed": 16,
+        "direction": "left",
+        "font": "heading",
+        "space": 60,
+        "color_scheme": "custom",
+        "custom_scheme_bg": "#f6c2d9",
+        "custom_scheme_bg_grad": ""
+      }
+    },
+    "41ae6b76-7a4b-4167-bffb-ea6a7f459477": {
+      "type": "press-section",
+      "blocks": {
+        "1e7358e5-d3e6-4139-9d0b-638c389e36a0": {
+          "type": "press",
+          "settings": {
+            "press_logo": "shopify:\/\/shop_images\/lash_press_white_2_4e3a6fae-1ad7-4da1-abb4-b15cdc099fd2.png",
+            "press_text": "\"Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
+          }
+        },
+        "6cae0169-d107-4ae5-bbd1-86e93b1ba517": {
+          "type": "press",
+          "settings": {
+            "press_logo": "shopify:\/\/shop_images\/lash_press_white_1_007359f1-c442-421c-a0bd-274b7316214c.png",
+            "press_text": "\"This Aussie brand is branching out from its iconic lash products, launching a range of lip products including this vitamin E-enriched oil. It’s non-sticky and provides a subtle pink tint.\""
+          }
+        },
+        "d6e5f142-788b-4d9f-a65a-aa0b8f13fe5e": {
+          "type": "press",
+          "settings": {
+            "press_logo": "shopify:\/\/shop_images\/cf_1.png",
+            "press_text": "\"The Lash Rehab has combined its incredible lash serum with a smudge-resistant mascara that leaves lashes looking lifted and volumised. The water-resistant formula also boosts lash strength, length and health.\""
+          }
+        },
+        "49d6dcd7-6307-4ce7-9f27-2c878c510063": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "press_logo": "shopify:\/\/shop_images\/lash_press_white_2_4e3a6fae-1ad7-4da1-abb4-b15cdc099fd2.png",
+            "press_text": "4 “Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
+          }
+        },
+        "5b1e3bdb-95bc-4f89-a472-4f7b8e355390": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "press_logo": "shopify:\/\/shop_images\/lash_press_white_1_007359f1-c442-421c-a0bd-274b7316214c.png",
+            "press_text": "5 “Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
+          }
+        }
+      },
+      "block_order": [
+        "1e7358e5-d3e6-4139-9d0b-638c389e36a0",
+        "6cae0169-d107-4ae5-bbd1-86e93b1ba517",
+        "d6e5f142-788b-4d9f-a65a-aa0b8f13fe5e",
+        "49d6dcd7-6307-4ce7-9f27-2c878c510063",
+        "5b1e3bdb-95bc-4f89-a472-4f7b8e355390"
+      ],
+      "settings": {
+      }
+    },
+    "00774247-7f70-48c5-85dd-2ea1920fa320": {
+      "type": "custom-row",
+      "disabled": true,
+      "blocks": {
+        "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/Love_case_3.jpg",
+            "image_position": "center center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow",
+            "color_scheme": "none",
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "LOVE IS IN THE AIR",
+            "title": "Spoil Yourself or a Loved One this VDAY!",
+            "title_size": "h1-style",
+            "text": "<p>Build your own Love Case and Save 15%. <\/p>",
+            "button_label": "Shop VDAY Bundle",
+            "button_link": "shopify:\/\/pages\/love-case-bundle-builder",
+            "button_style": "primary",
+            "text_alignment": "center",
+            "color_scheme": "none",
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-0",
+        "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-1"
+      ],
+      "settings": {
+        "alignment": "middle",
+        "color_scheme": "none"
+      }
+    },
+    "16359278676808bea5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Best Sellers",
+        "show_title": true,
+        "collection": "all",
+        "show_vendor": true,
+        "enable_carousel": false,
+        "grid": 4,
+        "rows": 2,
+        "show_title_card": false,
+        "show_title_card_image": true,
+        "image_position": "center center",
+        "overlay_style": "shadow",
+        "color_scheme": "1"
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "blocks": {
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "\"I had extremely damaged lashes from an over-processed lash lift a couple of months ago. I ordered this in hopes of strengthening them and it has done exactly that! They're also getting longer and denser. \"",
+            "author": "Paris",
+            "image": "shopify:\/\/shop_images\/IMG-5275.jpg",
+            "image_alignment": "center center",
+            "image_caption": "10 weeks using Original Growth Serum"
+          }
+        },
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "\"My lashes have grown so much, I actually can’t believe it! I was so sceptical at the start and now look at them! Completely obsessed. X\"",
+            "author": "Nicole",
+            "image": "shopify:\/\/shop_images\/26.jpg",
+            "image_alignment": "center center",
+            "image_caption": "11 weeks after using Original Lash Growth Serum"
+          }
+        },
+        "4e0c6bd2-c5a1-4a35-8ef0-7bd09dace120": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "\"My lashes are so long now woohoo! My friend told me about this serum and I didn’t hesitate and now I’m so over the moon!\"",
+            "author": "Erin M.",
+            "image": "shopify:\/\/shop_images\/image_9.jpg",
+            "image_alignment": "center center",
+            "image_caption": "11 weeks after using Sensitive Lash Growth Serum"
+          }
+        },
+        "864a6699-4eb5-4f3b-9b09-dfd7c4ffcae9": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "\"I feel like my lashes speak from themselves haha! They are just so long and thick :)\"",
+            "author": "Taylah M.",
+            "image": "shopify:\/\/shop_images\/image_9_1.jpg",
+            "image_alignment": "center center",
+            "image_caption": "12 weeks after using Original Lash Growth Serum"
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-0",
+        "16359281184fd0d618-1",
+        "4e0c6bd2-c5a1-4a35-8ef0-7bd09dace120",
+        "864a6699-4eb5-4f3b-9b09-dfd7c4ffcae9"
+      ],
+      "settings": {
+        "title": "1800+ 5-Star Reviews",
+        "show_title": true,
+        "enable_images": true,
+        "image_shape": "square",
+        "color_scheme": "1",
+        "text_caps": false,
+        "title_size": "h3-style",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1635927863703110df": {
+      "type": "rich-text",
+      "blocks": {
+        "1635927863703110df-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The Science Behind Longer Lashes",
+            "title_size": "h1-style",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "1635927863703110df-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With over a decade experience in the brow and lash industry, we are experts in lash health. Owned here in Australia, our triple peptide formula uses clinically-tested ingredients to ensure rapid lash growth, while maintaining the health of lashes. <\/p>",
+            "enlarge_text": true
+          }
+        },
+        "ce5dda3c-b365-4ec5-86bd-633adaf62caa": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE ABOUT US",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "1635927863703110df-1",
+        "1635927863703110df-2",
+        "ce5dda3c-b365-4ec5-86bd-633adaf62caa"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "color_scheme": "2",
+        "full_width": true
+      }
+    },
+    "997fb397-f39d-4c28-9617-700c6973c624": {
+      "type": "collection-list",
+      "blocks": {
+        "7a8aa8be-0980-410f-a323-ef9f71bce6ed": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "image": "shopify:\/\/shop_images\/Giveaway.jpg"
+          }
+        },
+        "91f29147-f9be-43a7-9841-28155811a6b9": {
+          "type": "collection",
+          "settings": {
+            "collection": "lash"
+          }
+        },
+        "3894374a-86b4-460e-8309-4f40d571370d": {
+          "type": "collection",
+          "settings": {
+            "collection": "lip"
+          }
+        },
+        "aa5a44a3-4929-4449-bdbb-5ec0a5e65257": {
+          "type": "collection",
+          "settings": {
+            "collection": "brow"
+          }
+        },
+        "1dd5dd87-a9a4-426b-9a8d-aa9b95400abe": {
+          "type": "collection",
+          "settings": {
+            "collection": "bundles"
+          }
+        },
+        "95269b65-ddcf-4dd4-9fdd-ee8c7a1150f0": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lash-rehab-wholesale-12-pack"
+          }
+        }
+      },
+      "block_order": [
+        "7a8aa8be-0980-410f-a323-ef9f71bce6ed",
+        "91f29147-f9be-43a7-9841-28155811a6b9",
+        "3894374a-86b4-460e-8309-4f40d571370d",
+        "aa5a44a3-4929-4449-bdbb-5ec0a5e65257",
+        "1dd5dd87-a9a4-426b-9a8d-aa9b95400abe",
+        "95269b65-ddcf-4dd4-9fdd-ee8c7a1150f0"
+      ],
+      "settings": {
+        "title": "Shop By Collection",
+        "show_title": true,
+        "enable_carousel": false,
+        "grid": 3
+      }
+    },
+    "16359285201c71bbb1": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "video": "",
+        "placeholder_image": "shopify:\/\/shop_images\/tlr_campaign_web-43.jpg",
+        "content_max_width": 800,
+        "subheading": "Tell your story",
+        "title": "Background video",
+        "title_size": "hsl-style",
+        "use_h1": false,
+        "text": "<p>Use a video to get a customer's attention<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "height_desktop": 580,
+        "height_mobile": 480,
+        "overlay_style": "full image-overlay--bg-shadow",
+        "heading_highlight_text": "",
+        "heading_highlight_font": true,
+        "heading_highlight_stencil": false,
+        "heading_highlight_color": "rgba(0,0,0,0)",
+        "heading_highlight_gradient": ""
+      }
+    },
+    "9bc9e42a-fede-4992-bedd-9d67667f63fd": {
+      "type": "faq-header",
+      "settings": {
+        "title": "FAQs",
+        "use_h1": false,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
+      }
+    },
+    "ab7e123a-5329-4593-9ef8-7c3b787f712b": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--16004362502337__ab7e123a-5329-4593-9ef8-7c3b787f712b-1667962630447ac574-0": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between the Original and Sensitive Serums and which is best suited for me?",
+            "answer": "<p>We actually recommend using both, hence we created the <a href=\"https:\/\/thelashrehab.com\/collections\/all-products\/products\/double-pack-eyelash-enhancing-growth-serum-original-sensitive\">Combo Pack<\/a>. The Original Serum is formulated with additional peptides that help encourage lash growth and also contain a stronger percentage of the peptides in the formula compared to the Sensitive. Hence, the result of the Original Serum is more significant, and Sensitive is a gentler formula. Alternating the two serums allows you to maintain healthy, long lashes to a desirable length and fullness. Prolonged use of the Original serum may lead to lashes that reach your brows but like, we are also here for that too :)<\/p>"
+          }
+        },
+        "template--16004362502337__ab7e123a-5329-4593-9ef8-7c3b787f712b-1667962630447ac574-1": {
+          "type": "question",
+          "settings": {
+            "title": "Is Lash Rehab Australian Owned?",
+            "answer": "<p>Yes, and we're proud of it. <\/p>"
+          }
+        },
+        "1960b61e-aec7-4d01-a9a4-bb7f8b771fed": {
+          "type": "question",
+          "settings": {
+            "title": "Can Eyelash Growth Serums change your eye colour?",
+            "answer": "<p>Some research indicates that certain eyelash growth serums containing prostaglandin and it’s derivatives can have an adverse effect on some eye colours. The Lash Rehab does NOT contain prostaglandin and any derivatives, so you are not to worry!<\/p>"
+          }
+        },
+        "ebeb88a8-40ca-46bd-9a84-a2544eb152c5": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to see results from my Lash Rehab serum?",
+            "answer": "<p>After 4 weeks you should start to see the appearance of longer, fuller, thicker lashes, if applying daily as per directions. You will see full results within 12 weeks. We recommend taking a before and after picture of your lashes so you can notice the growth of your natural lashes. We love nothing more than receiving before and after pictures from our amazing community. We would love to hear from you through Facebook, Instagram (@thelashrehabau) or email (enquiries@thelashrehab.com).<\/p>"
+          }
+        },
+        "854d0e17-01de-49a6-9384-94e91d6bbc1c": {
+          "type": "button",
+          "settings": {
+            "title": "READ MORE FAQs",
+            "link": "shopify:\/\/pages\/faq"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362502337__ab7e123a-5329-4593-9ef8-7c3b787f712b-1667962630447ac574-0",
+        "template--16004362502337__ab7e123a-5329-4593-9ef8-7c3b787f712b-1667962630447ac574-1",
+        "1960b61e-aec7-4d01-a9a4-bb7f8b771fed",
+        "ebeb88a8-40ca-46bd-9a84-a2544eb152c5",
+        "854d0e17-01de-49a6-9384-94e91d6bbc1c"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "d8602185-9347-4b77-8512-6376b2d43107": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog posts",
+        "show_title": false,
+        "blog": "the-lash-rehab-blog",
+        "enable_carousel": true,
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_excerpts": true,
+        "crop_ratio": "1.33",
+        "color_scheme": "2"
+      }
+    },
+    "1667884810e965a0cc": {
+      "type": "apps",
+      "blocks": {
+        "6dc95e6d-9c65-4efe-a6e6-f1d8f97b1d5a": {
+          "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "GROWGANG GRAM",
+            "subheading": "<p>Follow for all the lash loving inspo your heart desires.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "large",
+            "add_spacing": true,
+            "rows_count": 1,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": true,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "6dc95e6d-9c65-4efe-a6e6-f1d8f97b1d5a"
+      ],
+      "settings": {
+      }
+    },
+    "a1f468c3-3fb1-4215-8fba-7d104d5b8ea4": {
+      "type": "logo-list",
+      "disabled": true,
+      "settings": {
+        "title": "Logo list",
+        "show_title": false,
+        "image_opacity": 75,
+        "color_scheme": "1"
+      }
+    },
+    "c1a7b2fd-f6f1-4230-9949-9d33a1a02cc4": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "00257e10-1ffa-48a2-80bd-ce2f8c1e97df": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "As Seen In",
+            "color": "#f6c2d9",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "7a0823e9-40fa-454a-ac38-6b0cc162de03": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_962b49a7-fefc-4771-be46-7aaaecbf4614.jpg",
+            "image_width": 130,
+            "link": ""
+          }
+        },
+        "6a97a55d-58de-4e6d-8870-caca4b4f5b23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_431f921e-5918-4ff1-9ab7-c99fab7705b2.jpg",
+            "image_width": 130,
+            "link": ""
+          }
+        },
+        "7bf4e2dc-a483-41a6-b2d6-fc640d8363cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9_545141dd-d8ab-44fc-a7de-c0ea42b01c79.jpg",
+            "image_width": 130,
+            "link": ""
+          }
+        },
+        "6de5deb9-04d2-4f4a-83eb-639465fc651a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_81578e92-4b14-47ce-905a-c4d3d7158d99.jpg",
+            "image_width": 130,
+            "link": ""
+          }
+        },
+        "0ab49368-0caf-4b29-8ad5-028af6fc2068": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_fb9b7270-8211-4dad-ad8e-edd5571b0de4.jpg",
+            "image_width": 130,
+            "link": ""
+          }
+        },
+        "beeed69b-f4cd-48a6-b0f3-a0c1407f9e9c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/en_route.png",
+            "image_width": 130,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "00257e10-1ffa-48a2-80bd-ce2f8c1e97df",
+        "7a0823e9-40fa-454a-ac38-6b0cc162de03",
+        "6a97a55d-58de-4e6d-8870-caca4b4f5b23",
+        "7bf4e2dc-a483-41a6-b2d6-fc640d8363cf",
+        "6de5deb9-04d2-4f4a-83eb-639465fc651a",
+        "0ab49368-0caf-4b29-8ad5-028af6fc2068",
+        "beeed69b-f4cd-48a6-b0f3-a0c1407f9e9c"
+      ],
+      "settings": {
+        "text_size": 50,
+        "vertical_padding": 0,
+        "speed": 29,
+        "direction": "left",
+        "font": "heading",
+        "space": 70,
+        "color_scheme": "none",
+        "custom_scheme_bg": "#f6f6ef",
+        "custom_scheme_bg_grad": ""
+      }
+    },
+    "166900641156d83f32": {
+      "type": "apps",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "16359276425da8ce46",
+    "16615097564a250284",
+    "41ae6b76-7a4b-4167-bffb-ea6a7f459477",
+    "00774247-7f70-48c5-85dd-2ea1920fa320",
+    "16359278676808bea5",
+    "16359281184fd0d618",
+    "1635927863703110df",
+    "997fb397-f39d-4c28-9617-700c6973c624",
+    "16359285201c71bbb1",
+    "9bc9e42a-fede-4992-bedd-9d67667f63fd",
+    "ab7e123a-5329-4593-9ef8-7c3b787f712b",
+    "d8602185-9347-4b77-8512-6376b2d43107",
+    "1667884810e965a0cc",
+    "a1f468c3-3fb1-4215-8fba-7d104d5b8ea4",
+    "c1a7b2fd-f6f1-4230-9949-9d33a1a02cc4",
+    "166900641156d83f32"
+  ]
+}

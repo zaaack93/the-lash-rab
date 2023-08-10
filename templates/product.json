@@ -1,0 +1,476 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "89978ae6-ec55-474b-bdd4-3d174de20190": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "1742dddd-1570-40fc-b100-18df8a14d97f": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.short_description.value }}",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "2fc2f971-c97f-482c-bb1a-aac9ea01ce68": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.key_benefit_1.value }}",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "7aafda98-809e-4ad6-8e45-1f1cc874a086": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p>{{ product.metafields.custom.key_benefit_2.value }}<\/p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "41c166b1-6272-4d79-a636-6e1481523216": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p>{{ product.metafields.custom.key_benefit_3.value }}<\/p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "6eeaf84a-fc71-495e-8ba5-ba0583d7d462": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "6a8e3cea-a798-4360-9c75-c85d858fd584": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>Due to high demand: only 6 serums can be added per order. <\/p>",
+            "icon": "lock",
+            "icon_size": "small",
+            "enable_box": true,
+            "box_color": "#faf5ec",
+            "show_in_quickbuy": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": false,
+            "show_backorder_text": true,
+            "show_pickup_availability": false
+          }
+        },
+        "549034d8-6fc7-47ba-94b8-635ed4cec869": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>Free Shipping Australia-Wide<\/strong><\/p>",
+            "icon": "truck",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "ef659cd7-d7df-4855-9bd4-58e81ad160ec": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>90 Day <\/strong><a href=\"\/pages\/faq\" target=\"_blank\" title=\"Frequently Asked Questions\"><strong>Money-Back Guarantee<\/strong><\/a><\/p>",
+            "icon": "check_mark_in_circle",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "44fd05ca-1aa9-4f79-a391-422cb5975d6e": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p><strong>Afterpay Available at Checkout<\/strong><\/p>",
+            "icon": "",
+            "custom_icon": "shopify:\/\/shop_images\/unnamed.png",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "daa4d693-6d7f-41f4-b094-c7d590abd314": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "enable_carousel": true,
+            "show_in_quickbuy": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": true,
+            "open_tab": true,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "c513a27c-f703-45b0-8163-fb1c3e9502b2": {
+          "type": "accordion",
+          "settings": {
+            "title": "How to Use",
+            "icon": "",
+            "content": "<p>{{ product.metafields.custom.how_to_use | metafield_tag }}<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a06853a-b7fc-4b32-9d0c-98f1b911297b": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ingredients",
+            "icon": "",
+            "content": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bc485d11-7571-45be-87dd-1a0750106449": {
+          "type": "related_products",
+          "settings": {
+            "title": "Shop Our XMAS Bundles",
+            "product_list": [
+              "bon-bon-under-50",
+              "bon-bon-lip-kit",
+              "big-bon-bon-under-100"
+            ],
+            "enable_carousel": true,
+            "show_in_quickbuy": false
+          }
+        },
+        "68a9bed6-d0ea-45ae-b276-f13e0a36c85b": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "9baf4f1c-3ee7-4f84-a252-8f52f4f51c57": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Enter our BIGGEST Giveaway here",
+            "style": "secondary",
+            "page": "newsletter-sign-up",
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "89978ae6-ec55-474b-bdd4-3d174de20190",
+        "vendor",
+        "title",
+        "price",
+        "1742dddd-1570-40fc-b100-18df8a14d97f",
+        "2fc2f971-c97f-482c-bb1a-aac9ea01ce68",
+        "7aafda98-809e-4ad6-8e45-1f1cc874a086",
+        "41c166b1-6272-4d79-a636-6e1481523216",
+        "divider",
+        "variant_picker",
+        "6eeaf84a-fc71-495e-8ba5-ba0583d7d462",
+        "6a8e3cea-a798-4360-9c75-c85d858fd584",
+        "buy_buttons",
+        "549034d8-6fc7-47ba-94b8-635ed4cec869",
+        "ef659cd7-d7df-4855-9bd4-58e81ad160ec",
+        "44fd05ca-1aa9-4f79-a391-422cb5975d6e",
+        "daa4d693-6d7f-41f4-b094-c7d590abd314",
+        "description",
+        "c513a27c-f703-45b0-8163-fb1c3e9502b2",
+        "9a06853a-b7fc-4b32-9d0c-98f1b911297b",
+        "bc485d11-7571-45be-87dd-1a0750106449",
+        "68a9bed6-d0ea-45ae-b276-f13e0a36c85b",
+        "9baf4f1c-3ee7-4f84-a252-8f52f4f51c57"
+      ],
+      "settings": {
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "image_cards": "",
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1670565734f8511fa0": {
+      "type": "apps",
+      "settings": {
+      }
+    },
+    "070386ab-bd8b-44d6-8bd0-d7eee603eb0f": {
+      "type": "scrolling-banner",
+      "disabled": true,
+      "blocks": {
+        "template--16004362731713__070386ab-bd8b-44d6-8bd0-d7eee603eb0f-166788655866b993c7-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Our signature eyelash growth serum",
+            "color": "rgba(0,0,0,0)",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "5db5addb-2788-48fb-815c-9caee8e71e59": {
+          "type": "icon",
+          "settings": {
+            "icon": "star",
+            "icon_width": 50,
+            "color": "#df5641"
+          }
+        },
+        "512b861c-0238-489b-ae57-fcf253fd53e6": {
+          "type": "text",
+          "settings": {
+            "text": "\"My lashes literally touch my eyebrows, they are so long!!\" - Rosie H.",
+            "color": "#ffffff",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "b85ca4b2-c650-4693-a394-2d7d8aad1314": {
+          "type": "icon",
+          "settings": {
+            "icon": "star",
+            "icon_width": 50,
+            "color": "#df5641"
+          }
+        },
+        "c4f31dcc-a72a-4fb1-8637-efad1e94c44d": {
+          "type": "text",
+          "settings": {
+            "text": "\"Lash Rehab actually works ☺️ have been using for 3-4 weeks now and I can definitely see the difference.\" - April H.",
+            "color": "#ffffff",
+            "link": "",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362731713__070386ab-bd8b-44d6-8bd0-d7eee603eb0f-166788655866b993c7-0",
+        "5db5addb-2788-48fb-815c-9caee8e71e59",
+        "512b861c-0238-489b-ae57-fcf253fd53e6",
+        "b85ca4b2-c650-4693-a394-2d7d8aad1314",
+        "c4f31dcc-a72a-4fb1-8637-efad1e94c44d"
+      ],
+      "settings": {
+        "text_size": 28,
+        "vertical_padding": 16,
+        "speed": 16.5,
+        "direction": "left",
+        "font": "heading",
+        "space": 50,
+        "color_scheme": "custom",
+        "custom_scheme_bg": "#f7b9d3",
+        "custom_scheme_bg_grad": ""
+      }
+    },
+    "0d327fd1-429f-4c0e-88d4-b72eb0502817": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--15999140921537__0d327fd1-429f-4c0e-88d4-b72eb0502817-16665857456a3601d9-0": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between the original and sensitive serums and which one is best suited for me?",
+            "answer": "<p>We actually recommend using both, hence we created the <a href=\"https:\/\/thelashrehab.com\/collections\/all-products\/products\/double-pack-eyelash-enhancing-growth-serum-original-sensitive\">Combo Pack<\/a>. The Original Serum is formulated with additional peptides that help encourage lash growth and also contain a stronger percentage of the peptides in the formula compared to the Sensitive. Hence, the result of the Original Serum is more significant, and Sensitive is a gentler formula. Alternating the two serums allows you to maintain healthy, long lashes to a desirable length and fullness. Prolonged use of the Original serum may lead to lashes that reach your brows but like, we are also here for that too :)<\/p>"
+          }
+        },
+        "template--15999140921537__0d327fd1-429f-4c0e-88d4-b72eb0502817-16665857456a3601d9-1": {
+          "type": "question",
+          "settings": {
+            "title": "Can eyelash growth serums change your eye colour?",
+            "answer": "<p>Some research indicates that certain eyelash growth serums containing prostaglandin and its derivatives can have an adverse effect on some eye colours. The Lash Rehab <span style=\"text-decoration:underline\"><strong>does NOT<\/strong><\/span> contain prostaglandin and any derivatives.<\/p>"
+          }
+        },
+        "84285725-c5f8-434a-9622-f55b22700aac": {
+          "type": "question",
+          "settings": {
+            "title": "Is Lash Rehab safe to use?",
+            "answer": "<p>Yes! Lash Rehab is safe to use. Our serums are developed using clinically-tested ingredients.<\/p><p>However, as with any cosmetic product, some may be allergic to one or more of the ingredients. It’s important you check the ingredients carefully before you start using. If you experience an allergic reaction, discontinue use immediately and seek medical advice.<\/p>"
+          }
+        },
+        "4cc9c911-3556-4285-97ea-c4ab98e133f1": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to see results from my Lash Rehab?",
+            "answer": "<p>After 4 weeks you should start to see the appearance of longer, fuller, thicker lashes, if applying daily as per directions. You will see full results within 12 weeks. We recommend taking a before and after picture of your lashes so you can notice the growth of your natural lashes. We love nothing more than receiving before and after pictures from our amazing community. We would love to hear from you through Facebook, Instagram (@thelashrehabau) or email (enquiries@thelashrehab.com).<\/p>"
+          }
+        },
+        "75cd7dc4-7c62-488f-add8-f5c46f5c4542": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use a lash growth serum when I have eyelash extensions?",
+            "answer": "<p>Yes, The Lash Rehab eyelash growth serum is perfectly safe to use whilst you have eyelash extensions. Actually, we recommend it and so do professional lash technicians! The Lash Rehab will help nourish your natural lashes making them stronger to hold the extensions and also extend the lash life cycle so less frequent refills are needed. However, NOT all eyelash growth serums are lash extension safe. Please carefully check the packaging of the eyelash growth serum.<\/p>"
+          }
+        },
+        "c7c84517-4658-49d1-9e11-fa385b8b3b61": {
+          "type": "question",
+          "settings": {
+            "title": "What if I don't see any results?",
+            "answer": "<p>We believe in our product so much that we have a 100% money-back guarantee if you don't see any results within 12 weeks. We will ask for before and after photos taken both either looking up or down, clearly visible natural lashes and with dates, so please ensure you take photos before you start using The Lash Rehab. Please apply the serum every night for 12 weeks to see full results, this is a condition of our guarantee.<\/p>"
+          }
+        },
+        "f8eb2459-2328-4ae1-9182-cdab1cfaea1e": {
+          "type": "button",
+          "settings": {
+            "title": "Read all FAQs",
+            "link": "shopify:\/\/pages\/faq"
+          }
+        }
+      },
+      "block_order": [
+        "template--15999140921537__0d327fd1-429f-4c0e-88d4-b72eb0502817-16665857456a3601d9-0",
+        "template--15999140921537__0d327fd1-429f-4c0e-88d4-b72eb0502817-16665857456a3601d9-1",
+        "84285725-c5f8-434a-9622-f55b22700aac",
+        "4cc9c911-3556-4285-97ea-c4ab98e133f1",
+        "75cd7dc4-7c62-488f-add8-f5c46f5c4542",
+        "c7c84517-4658-49d1-9e11-fa385b8b3b61",
+        "f8eb2459-2328-4ae1-9182-cdab1cfaea1e"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "bcb12330-1ec7-461e-99f4-68589eb164ca": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "content_max_width": 800,
+        "subheading": "Our daily routine",
+        "video_title": "How to Use",
+        "title_size": "hsl-style",
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "overlay_style": "shadow",
+        "image": "shopify:\/\/shop_images\/tlr_campaign_web-43.jpg",
+        "image_position": "center center",
+        "heading_highlight_text": "",
+        "heading_highlight_font": true,
+        "heading_highlight_stencil": false,
+        "heading_highlight_color": "rgba(0,0,0,0)",
+        "heading_highlight_gradient": ""
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "blocks": {
+        "loox-product-reviews": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 15,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "loox-product-reviews"
+      ],
+      "settings": {
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "title": "You may also like",
+        "show_title": true,
+        "show_vendor": false,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1670565734f8511fa0",
+    "070386ab-bd8b-44d6-8bd0-d7eee603eb0f",
+    "0d327fd1-429f-4c0e-88d4-b72eb0502817",
+    "bcb12330-1ec7-461e-99f4-68589eb164ca",
+    "loox-product-reviews-app-section",
+    "recommendations"
+  ]
+}

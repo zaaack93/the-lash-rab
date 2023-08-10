@@ -1,0 +1,471 @@
+{
+  "sections": {
+    "1c003683-186d-4cdc-8df7-7dea01e10523": {
+      "type": "gallery",
+      "blocks": {
+        "template--16004362600641__1c003683-186d-4cdc-8df7-7dea01e10523-1671676402fc219bc5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tlr_campaign_highres-51_Large_866f4764-ce20-4b15-b405-edbbf9a1466a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "FAQs",
+            "title": "We're here to help!",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362600641__1c003683-186d-4cdc-8df7-7dea01e10523-1671676402fc219bc5-0"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": "h1-style",
+        "enable_margin": true,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "FAQ",
+        "use_h1": false,
+        "text": "<p>If you have a question for us that isn't provided below or if talking to a real-life human is more your style, then please email our team at <strong>hi@thelashrehab.com<\/strong>. We will get back to you as soon as possible.  <\/p>",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is Lash Rehab?",
+            "answer": "<p>The Lash Rehab is an eyelash enhancing growth serum that helps nourish, grow and repair your natural lashes. See the appearance of longer, thicker and fuller lashes in 4-8 weeks, full results within 12. Our serum contains a peptide formula combined with antioxidants to help stimulate, strengthen and condition the lashes.  <\/p>"
+          }
+        },
+        "31f1a18e-7be1-4979-9df8-eac7fc80bc59": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between the Original and Sensitive serums and which one is best suited for me?",
+            "answer": "<p>We actually recommend using both, hence we created the <a href=\"https:\/\/thelashrehab.com\/collections\/all-products\/products\/double-pack-eyelash-enhancing-growth-serum-original-sensitive\">Combo Pack<\/a>. The Original Serum is formulated with additional peptides that help encourage lash growth and also contain a stronger percentage of the peptides in the formula compared to the Sensitive. Hence, the result of the Original Serum is more significant, and Sensitive is a gentler formula. Alternating the two serums allows you to maintain healthy, long lashes to a desirable length and fullness. Prolonged use of the Original serum may lead to lashes that reach your brows but like, we are also here for that too :)<\/p>"
+          }
+        },
+        "8e9796b9-be75-4908-a792-b9c0ba2eb06c": {
+          "type": "question",
+          "settings": {
+            "title": "Does The Lash Rehab actually grow your eyelashes?",
+            "answer": "<p>Yes! Within 4 weeks you will start to notice the appearance of longer, thicker and fuller lashes.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Is The Lash Rehab Australian owned?",
+            "answer": "<p>Yes, and we're proud of it. <\/p>"
+          }
+        },
+        "7f7646dc-f4b8-4d8e-a91e-1562408c1177": {
+          "type": "question",
+          "settings": {
+            "title": "Does The Lash Rehab contain Prostaglandins?",
+            "answer": "<p>No. The Lash Rehab is free of prostaglandin and any derivatives.<\/p>"
+          }
+        },
+        "1a393ba9-534f-479e-a126-2e7e602206d0": {
+          "type": "question",
+          "settings": {
+            "title": "Can eyelash growth serums change your eye colour?",
+            "answer": "<p>Apparently certain eyelash growth serums containing prostaglandin and it’s derivatives can have an adverse effect on some eye colours. The Lash Rehab does NOT contain prostaglandin and any derivatives.<\/p>"
+          }
+        },
+        "feceda97-a285-4cf0-80f0-31a1516e11b8": {
+          "type": "question",
+          "settings": {
+            "title": "Is Lash Rehab safe to use?",
+            "answer": "<p>Yes! Lash Rehab is safe to use. However, as with any cosmetic product, some may be allergic to one or more of the ingredients. It’s important you check the ingredients carefully before you start using. If you experience an allergic reaction, discontinue use immediately and seek medical advice.<\/p>"
+          }
+        },
+        "beb69017-31e8-4f42-9161-af348cf0085e": {
+          "type": "question",
+          "settings": {
+            "title": "What ingredients are used in The Lash Rehab?",
+            "answer": "<p>Original Serum Ingredients: Deionized water, Glycerin, 1,3 propanediol, veg squalane, caprylic capric triglyceride, Butylene glycol, water, dextran, isopropyl myristate, myristoyl pentapeptide-17, myristoyl hexapeptide-16, dimethicone crosspolymer-3, acetyl tetrapeptide-3, Trifolium Pratense (Clover) flower extract, tocopheryl acetate, hydroxyethylcellulose, acrylamide \/ ammonium acrylate copolymer, ethylhexylglycerin, caprylyl glycol, polyisobutene, hexylene glycol, polysorbate 20, disodium edta, methylisothiazolinone.<\/p><p>Sensitive Serum Ingredients: Deionized water, Glycerin, 1,3 propanediol, veg squalane, caprylic capric triglyceride, isopropyl myristate, myristoyl pentapeptide-17, myristoyl hexapeptide-16, dimethicone crosspolymer-3, tocopheryl acetate, hydroxyethylcellulose, acrylamide \/ ammonium acrylate copolymer, ethylhexylglycerin, caprylyl glycol, polyisobutene, hexylene glycol, polysorbate 20, disodium edta, methylisothiazolinone.<\/p>"
+          }
+        },
+        "7c4e61ed-88f4-473e-aa0f-f94fa6b88209": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to see results from my Lash Rehab?",
+            "answer": "<p>After 4 weeks you should start to see the appearance of longer, fuller, thicker lashes, if applying daily as per directions. You will see full results within 12 weeks. We recommend taking a before and after picture of your lashes so you can notice the growth of your natural lashes. We love nothing more than receiving before and after pictures from our amazing community. We would love to hear from you through Facebook, Instagram (@thelashrehabau) or email (hi@thelashrehab.com).<\/p>"
+          }
+        },
+        "4db1708e-0597-428b-b362-052c60c12216": {
+          "type": "question",
+          "settings": {
+            "title": "How long is the lash lifecycle?",
+            "answer": "<p>Natural eyelashes grow in and fall out in cycles, which occurs every 60 to 90 days. A full lash cycle is around 12 weeks.<\/p>"
+          }
+        },
+        "297d8175-5a95-4858-8d13-4c7143d1d7cf": {
+          "type": "question",
+          "settings": {
+            "title": "Does The Lash Rehab test on animals?",
+            "answer": "<p>No! Our products have NOT been tested on animals. Our products are 100% vegan and cruelty free.<\/p>"
+          }
+        },
+        "566e1614-7af3-4f33-9cf3-852934292be0": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shelf life of The Lash Rehab products?",
+            "answer": "<p>6 months after The Lash Rehab has been opened.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "31f1a18e-7be1-4979-9df8-eac7fc80bc59",
+        "8e9796b9-be75-4908-a792-b9c0ba2eb06c",
+        "question-2",
+        "7f7646dc-f4b8-4d8e-a91e-1562408c1177",
+        "1a393ba9-534f-479e-a126-2e7e602206d0",
+        "feceda97-a285-4cf0-80f0-31a1516e11b8",
+        "beb69017-31e8-4f42-9161-af348cf0085e",
+        "7c4e61ed-88f4-473e-aa0f-f94fa6b88209",
+        "4db1708e-0597-428b-b362-052c60c12216",
+        "297d8175-5a95-4858-8d13-4c7143d1d7cf",
+        "566e1614-7af3-4f33-9cf3-852934292be0"
+      ],
+      "settings": {
+        "title": "Product "
+      }
+    },
+    "5bb50fe5-f994-4ca5-8423-7116f7c193be": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--16004362600641__5bb50fe5-f994-4ca5-8423-7116f7c193be-1667966501e768ea42-0": {
+          "type": "question",
+          "settings": {
+            "title": "How do I apply The Lash Rehab?",
+            "answer": "<p>Clean your eyelid first and shake the bottle. Apply one stroke of Lash Rehab to your upper lash line. Apply once every morning or night for 12 weeks. Keep applying after these 12 weeks to maintain growth. Individual results may vary.<\/p>"
+          }
+        },
+        "template--16004362600641__5bb50fe5-f994-4ca5-8423-7116f7c193be-1667966501e768ea42-1": {
+          "type": "question",
+          "settings": {
+            "title": "What happens when I stop using The Lash Rehab?",
+            "answer": "<p>There will be no adverse effects on your lashes when you stop using The Lash Rehab. Your natural eyelashes will not fall out. However, we recommend continual use to maintain length and strength of your natural lashes.<\/p>"
+          }
+        },
+        "243734ad-093e-4761-9887-c1cc9ba802f4": {
+          "type": "question",
+          "settings": {
+            "title": "Should I continue using The Lash Rehab after I have finished the 12 weeks?",
+            "answer": "<p>Yes, we recommend continual use to maintain length and strength of your natural lashes.<\/p>"
+          }
+        },
+        "2b7ea416-9133-4185-9933-4afd0984ca97": {
+          "type": "question",
+          "settings": {
+            "title": "Can I put an eyelash growth serum on my brows?",
+            "answer": "<p>Yes! Our eyelash growth serums can be used as a brow booster too. Think of them like an eyelash serum and brow lash serum in one!<\/p>"
+          }
+        },
+        "2ddce1ba-ebf1-4186-bcc9-1e11da64afb5": {
+          "type": "question",
+          "settings": {
+            "title": "How is the product made?",
+            "answer": "<p>The Lash Rehab eyelash growth serums are formulated with clinically tested ingredients in a lab. We pride ourselves on making serums that contain only the highest quality ingredients that are necessary for eyelash growth.<\/p>"
+          }
+        },
+        "c4992370-1e7f-4ba1-9764-b27306d572d0": {
+          "type": "question",
+          "settings": {
+            "title": "How do I make sure I order the right size?",
+            "answer": "<p>Our signature eyelash growth serum size for Original and Sensitive is 3ml. This will last approximately 3 months.<\/p>"
+          }
+        },
+        "68b391b1-e238-42fa-bb98-47d53a4d56bd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use a lash growth serum when I have eyelash extensions?",
+            "answer": "<p>Yes, The Lash Rehab eyelash growth serum is perfectly safe to use whilst you have eyelash extensions. Actually, we recommend it and so do professional lash technicians! The Lash Rehab will help nourish your natural lashes making them stronger to hold the extensions and also extend the lash life cycle so less frequent refills are needed. However, NOT all eyelash growth serums are lash extension safe. Please carefully check the packaging of the eyelash growth serum.<\/p>"
+          }
+        },
+        "62b0e0a4-2cd0-44fb-a530-79df5c961ac3": {
+          "type": "question",
+          "settings": {
+            "title": "I am allergic to eyelash extensions, can I use an eyelash growth serum?",
+            "answer": "<p>Yes, depending on what ingredients you are allergic to. Eyelash adhesive usually has different ingredients to eyelash growth serums. Please view our formulas ingredients for confirmation of buying this product. The decision needs to be yours or your doctor's.<\/p>"
+          }
+        },
+        "76a5ce48-39f7-4ee8-814f-4d73bcf8c645": {
+          "type": "question",
+          "settings": {
+            "title": "Is it ok to use makeup while using Eyelash Enhancer Serum?",
+            "answer": "<p>Yes, it is perfectly fine to use makeup while using eyelash growth serum. However, mascara or similar products should be completely removed before you apply an eyelash growth serum.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362600641__5bb50fe5-f994-4ca5-8423-7116f7c193be-1667966501e768ea42-0",
+        "template--16004362600641__5bb50fe5-f994-4ca5-8423-7116f7c193be-1667966501e768ea42-1",
+        "243734ad-093e-4761-9887-c1cc9ba802f4",
+        "2b7ea416-9133-4185-9933-4afd0984ca97",
+        "2ddce1ba-ebf1-4186-bcc9-1e11da64afb5",
+        "c4992370-1e7f-4ba1-9764-b27306d572d0",
+        "68b391b1-e238-42fa-bb98-47d53a4d56bd",
+        "62b0e0a4-2cd0-44fb-a530-79df5c961ac3",
+        "76a5ce48-39f7-4ee8-814f-4d73bcf8c645"
+      ],
+      "settings": {
+        "title": "Usage"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "para-1": {
+          "type": "content",
+          "settings": {
+            "content": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I purchase The Lash Rehab?",
+            "answer": "<p>The Lash Rehab is located online at www.thelashrehab.com. Our serum can also be found at many stores worldwide. Please check out our stockist directory at https:\/\/thelashrehab.com\/pages\/store-locator to locate one of these stores.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What are the shipping options?",
+            "answer": "<p>Free standard Australia-wide shipping over $100. Express shipping is available for $15<\/p><p>International shipping is a flat rate of $25.<\/p>"
+          }
+        },
+        "a05d6621-3d4c-4a00-a562-10b94827f8ca": {
+          "type": "question",
+          "settings": {
+            "title": "Can I change my shipping address?",
+            "answer": "<p>Yes, if your item has not already been posted. Please email our team asap at hi@thelashrehab.com.<\/p>"
+          }
+        },
+        "b1600847-ee01-4f29-863a-81e9b8d3f3a6": {
+          "type": "question",
+          "settings": {
+            "title": "Where do we ship to?",
+            "answer": "<p>Worldwide.<\/p>"
+          }
+        },
+        "7b9b3446-ee25-4380-9177-afecd9edadac": {
+          "type": "question",
+          "settings": {
+            "title": "When will I receive my order?",
+            "answer": "<p>The Lash Rehab will dispatch your order within 24 hours of your purchase. Standard shipping with Australia Post takes between 4-6 days and express shipping takes 1-3 days.<\/p>"
+          }
+        },
+        "fb47373f-539b-4075-8530-55451b592f65": {
+          "type": "question",
+          "settings": {
+            "title": "How do I track my order?",
+            "answer": "<p>Once your order has been posted, you will receive an email with your tracking information that you can then track your order through. The Lash Rehab orders are all shipped via Australia Post; https:\/\/auspost.com.au\/mypost\/track\/<\/p>"
+          }
+        },
+        "8f98ad17-7190-4b17-8741-9ee1131d6635": {
+          "type": "question",
+          "settings": {
+            "title": "How do I make change or cancel to order I’ve already placed?",
+            "answer": "<p>Unfortunately once your order has been placed, we’re unable to cancel or make changes to your order.<\/p>"
+          }
+        },
+        "76624dae-7ac1-40c6-bc8e-150d1fa5295d": {
+          "type": "question",
+          "settings": {
+            "title": "What should I do if I never received my order?",
+            "answer": "<p>Please contact <a href=\"mailto:hi@thelashrehab.com\" target=\"_blank\">hi@thelashrehab.com<\/a> and send through your order number. The Lash Rehab team will them contact you.<\/p>"
+          }
+        },
+        "d0f3114d-f6cf-48fe-9f4e-f04a575a4c59": {
+          "type": "question",
+          "settings": {
+            "title": "What do I do if I receive a defective order?",
+            "answer": "<p>Please contact our team ASAP at <a href=\"mailto:hi@thelashrehab.com\" target=\"_blank\">hi@thelashrehab.com<\/a> and we will organise the next steps.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "para-1",
+        "question-1",
+        "question-2",
+        "a05d6621-3d4c-4a00-a562-10b94827f8ca",
+        "b1600847-ee01-4f29-863a-81e9b8d3f3a6",
+        "7b9b3446-ee25-4380-9177-afecd9edadac",
+        "fb47373f-539b-4075-8530-55451b592f65",
+        "8f98ad17-7190-4b17-8741-9ee1131d6635",
+        "76624dae-7ac1-40c6-bc8e-150d1fa5295d",
+        "d0f3114d-f6cf-48fe-9f4e-f04a575a4c59"
+      ],
+      "settings": {
+        "title": "Shipping & Exchanges"
+      }
+    },
+    "8a1c1521-26de-466d-9506-27340f8f64de": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--16004362600641__8a1c1521-26de-466d-9506-27340f8f64de-1667966501e768ea42-0": {
+          "type": "question",
+          "settings": {
+            "title": "What is the return policy?",
+            "answer": "<p>Please understand we do not accept returns as our product can not be determined as used or not. The Lash Rehab reserves the right to deny returns for reasons such as ‘change of mind’ as it is your sole responsibility to check the product description and ingredients. However, if you are dissatisfied with your purchase or you have any questions prior to purchase please contact us via <a href=\"mailto:hi@thelashrehab.com\" target=\"_blank\">hi@thelashrehab.com<\/a><\/p>"
+          }
+        },
+        "template--16004362600641__8a1c1521-26de-466d-9506-27340f8f64de-1667966501e768ea42-1": {
+          "type": "question",
+          "settings": {
+            "title": "What if I don't see any results?",
+            "answer": "<p>We believe in our product so much that we have a 100% money-back guarantee if you don't see any results within 12 weeks. We will ask for before and after photos taken both either looking up or down, clearly visable natural lashes and with dates, so please ensure you take photos before you start using The Lash Rehab. Please apply the serum every night for 12 weeks to see full results, this is a condition of our guarantee.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362600641__8a1c1521-26de-466d-9506-27340f8f64de-1667966501e768ea42-0",
+        "template--16004362600641__8a1c1521-26de-466d-9506-27340f8f64de-1667966501e768ea42-1"
+      ],
+      "settings": {
+        "title": "Returns"
+      }
+    },
+    "29441ecd-ae2b-4022-b1ac-0dd74860374c": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--16004362600641__29441ecd-ae2b-4022-b1ac-0dd74860374c-1667966501e768ea42-0": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Afterpay?",
+            "answer": "<p>Yes, The Lash Rehab accepts Afterpay as a payment method. This will allow you to pay for your order in four payments, every 2 weeks. Always interest-free.<\/p>"
+          }
+        },
+        "template--16004362600641__29441ecd-ae2b-4022-b1ac-0dd74860374c-1667966501e768ea42-1": {
+          "type": "question",
+          "settings": {
+            "title": "What other payment methods are accepted?",
+            "answer": "<p>Afterpay, Amex, Visa, Mastercard, Shop Pay, Paypal and Google Pay.<\/p>"
+          }
+        },
+        "8acf0e0f-9345-4918-8bde-c5527dc7b30d": {
+          "type": "question",
+          "settings": {
+            "title": "Is it going to cost me more to use the Afterpay service?",
+            "answer": "<p>No, the cost will be the same.<\/p>"
+          }
+        },
+        "631ff943-aeca-4ac4-b489-e3bcef0e58dd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Afterpay for my wholesale order or is there a limit?",
+            "answer": "<p>Yes! You definitely can, there is no limit on our end.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362600641__29441ecd-ae2b-4022-b1ac-0dd74860374c-1667966501e768ea42-0",
+        "template--16004362600641__29441ecd-ae2b-4022-b1ac-0dd74860374c-1667966501e768ea42-1",
+        "8acf0e0f-9345-4918-8bde-c5527dc7b30d",
+        "631ff943-aeca-4ac4-b489-e3bcef0e58dd"
+      ],
+      "settings": {
+        "title": "Billing & Payment"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "title_size": "h1-style",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact-us",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "color_scheme": "1",
+        "full_width": false
+      }
+    },
+    "4148dc7f-4be1-40aa-b75e-94fe1deaaf74": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "show_title": false,
+        "collection": "all",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "show_title_card": false,
+        "show_title_card_image": true,
+        "image_position": "center center",
+        "overlay_style": "shadow",
+        "color_scheme": "1"
+      }
+    }
+  },
+  "order": [
+    "1c003683-186d-4cdc-8df7-7dea01e10523",
+    "main",
+    "faq-content-1",
+    "5bb50fe5-f994-4ca5-8423-7116f7c193be",
+    "faq-content-2",
+    "8a1c1521-26de-466d-9506-27340f8f64de",
+    "29441ecd-ae2b-4022-b1ac-0dd74860374c",
+    "contact",
+    "4148dc7f-4be1-40aa-b75e-94fe1deaaf74"
+  ]
+}

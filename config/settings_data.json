@@ -1,0 +1,727 @@
+{
+  "presets": {
+    "Horizon": {
+      "site_gutter": 8,
+      "card_border_radius": 5,
+      "enable_card_modals": true,
+      "page_container": 2000,
+      "font_col_base": "#3c4043",
+      "font_col_link": "#121212",
+      "font_col_shoptitle": "#121212",
+      "font_col_sale": "#df5641",
+      "btn_col": "#1b73e8",
+      "btn_col_alt": "#1b5ab4",
+      "btn_col_txt": "#ffffff",
+      "btn_alt_bg": "#ffffff",
+      "btn_alt_txt": "#3c4043",
+      "card_1_text": "#3c4043",
+      "card_1_bg": "#f4f4f4",
+      "card_2_text": "#3c4043",
+      "card_2_bg": "#eef7ed",
+      "card_3_text": "#3c4043",
+      "card_3_bg": "#fdecec",
+      "bg_col": "#ffffff",
+      "bg_image": "",
+      "bg_method": "repeatxy",
+      "head_bg_col": "#ffffff",
+      "head_txt_col": "#3c4043",
+      "font_col_nav": "#3c4043",
+      "font_col_nav_hov": "#121212",
+      "panel_nav_bg": "#ffffff",
+      "nav_featured_col": "#df5641",
+      "image_overlay_text": "#ffffff",
+      "image_overlay_bg": "#121212",
+      "image_overlay_opacity": 10,
+      "image_overlay_shadow_opacity": 15,
+      "prod_over_redu_text": "#df5641",
+      "prod_over_redu_bg": "#ffffff",
+      "prod_over_low_bg": "#4c4c4b",
+      "prod_over_new_text": "#808284",
+      "prod_over_new_bg": "#ffffff",
+      "prod_label_sale_text": "#df5641",
+      "prod_label_sold_text": "#171717",
+      "prod_label_pre_text": "#60a57e",
+      "prod_over_meta_text": "#ffffff",
+      "prod_over_meta_bg": "#1b73e8",
+      "prod_rating_star": "#f6a529",
+      "free_shipping_bar_col_under": "#dd9a1a",
+      "foot_bg_col": "#3c4043",
+      "foot_text_col": "#d2dbe5",
+      "foot_heading_col": "#ffffff",
+      "type_heading_font": "cabin_n7",
+      "capitalize_headings": false,
+      "type_base_font": "nunito_sans_n4",
+      "type_nav_font": "nunito_sans_n4",
+      "type_logo_font": "cabin_n4",
+      "font_size_base_int": 15,
+      "font_size_heading_int": 32,
+      "font_size_nav_int": 15,
+      "font_size_logo_int": 24,
+      "button_border_radius": 3,
+      "coll_grid_image_position": "center center",
+      "coll_thumb_text_align": "center",
+      "product_card_color_scheme": "1",
+      "prod_thumb_blend": false,
+      "prod_thumb_text_align": "center",
+      "prod_thumb_hover_image": true,
+      "quickbuy_style": "button-quick-add",
+      "quickbuy_visibility": "hover",
+      "prod_block_label_loc": "top left",
+      "prod_stock_warn_show": true,
+      "prod_stock_warn_limit_int": 10,
+      "prod_sold_out_show": true,
+      "enable_product_reviews_collection": false,
+      "swatch_enabled": true,
+      "swatch_method": "image",
+      "swatch_style": "icon_circle",
+      "swatch_picker_image_size": 32,
+      "enable_filter_swatches": true,
+      "filter_swatch_layout": "no-label",
+      "search_type": "product,article,page",
+      "enable_anims_reveal": true,
+      "cart_type": "drawer",
+      "prod_thumb_show_options": true,
+      "button_shape": "slightlyrounded",
+      "not_shade_bg": "#f7f7f8",
+      "foot_divider_col": "#e4e4e4",
+      "head_nav_div_col": "#e2e2e2",
+      "enable_live_search": true,
+      "live_search_show_vendor": false,
+      "live_search_show_price": false,
+      "live_search_search_meta": false,
+      "font_col_heads": "#171717",
+      "alt_bg_col": "#f7f7f8",
+      "alt_bg_head_col": "#171717",
+      "alt_bg_text_col": "#676869",
+      "alt_bg_link_col": "#171717",
+      "prod_thumb_detail_bg": "#f7f7f8",
+      "prod_thumb_detail_col_h": "#171717",
+      "prod_thumb_detail_col": "#676869",
+      "prod_thumb_detail_col_a": "#171717",
+      "button_style": "normal",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "1478526632860": {
+              "type": "announcement",
+              "settings": {
+                "bg_col": "rgba(0,0,0,0)",
+                "text_col": "rgba(0,0,0,0)"
+              }
+            },
+            "1478526632861": {
+              "type": "announcement",
+              "settings": {
+                "bg_col": "#1b73e8",
+                "text_col": "rgba(0,0,0,0)"
+              }
+            }
+          },
+          "block_order": [
+            "1478526632860",
+            "1478526632861"
+          ],
+          "settings": {
+            "announcement_bar_col": "#3c4043",
+            "announcement_text_col": "#ffffff",
+            "message_font_size": 14,
+            "show_social_icons": true,
+            "menu": "",
+            "show_country_selector": true,
+            "show_language_selector": true
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "logo_img_width_int": 90,
+            "mobile_logo_img_width_int": 90,
+            "logo_h1": true,
+            "enable_sticky": true,
+            "menu_linklist": "main-menu",
+            "menu_linklist_mobile": "",
+            "menu_layout": "inline-menu-center",
+            "nav_featured_link": "Sale",
+            "enable_mobile_promo_carousel": true,
+            "enable_nav_mob_products": false,
+            "nav_mob_products_title": "Best Sellers",
+            "enable_search": true,
+            "cart_icon": "basket",
+            "show_cart_icon_label": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1601308717434": {
+              "type": "text",
+              "settings": {
+                "image_width": 150,
+                "show_social_icons": true,
+                "soc_icons_large": false
+              }
+            },
+            "1601308671932": {
+              "type": "menu",
+              "settings": {
+                "title": "Quick links",
+                "menu": "footer"
+              }
+            },
+            "1601308656020": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "button_style": "primary",
+                "show_social_icons": false,
+                "soc_icons_large": false
+              }
+            }
+          },
+          "block_order": [
+            "1601308717434",
+            "1601308671932",
+            "1601308656020"
+          ],
+          "settings": {
+            "lower_menu": "",
+            "show_payment_icons": true,
+            "show_country_selector": true,
+            "show_language_selector": true
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "mode": "enabled",
+            "popup_delay_seconds": 6,
+            "popup_dismiss_for_days": 2,
+            "position": "center",
+            "title": "Sign up and save",
+            "text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+            "show_newsletter": true,
+            "show_social_icons": true
+          }
+        },
+        "cart-drawer": {
+          "type": "cart-drawer",
+          "settings": {
+            "enable_cart_notes": true,
+            "show_tax_and_shipping": true,
+            "cart_terms_page": "",
+            "enable_direct_cart": true,
+            "show_additional_checkout_buttons": true,
+            "show_backorder_text": true,
+            "enable_cross_sells": true,
+            "cross_sell_title": "You may like",
+            "enable_automatic_cross_sells": true
+          }
+        }
+      }
+    },
+    "Solar": {
+      "site_gutter": 8,
+      "card_border_radius": 5,
+      "enable_card_modals": true,
+      "page_container": 2000,
+      "font_col_base": "#121212",
+      "font_col_link": "#171717",
+      "font_col_shoptitle": "#171717",
+      "font_col_sale": "#df5641",
+      "btn_col": "#1d1d1b",
+      "btn_col_alt": "#00a95b",
+      "btn_col_txt": "#ffffff",
+      "btn_alt_bg": "#ffffff",
+      "btn_alt_txt": "#1d1d1b",
+      "card_1_bg": "#fbf9f6",
+      "card_1_bg_grad": "",
+      "card_2_text": "#faf5ec",
+      "card_2_bg": "#00a95b",
+      "card_3_text": "#00a95b",
+      "card_3_bg": "#faf5ec",
+      "bg_col": "#ffffff",
+      "bg_image": "",
+      "bg_method": "repeatxy",
+      "head_bg_col": "#ffffff",
+      "head_txt_col": "#171717",
+      "font_col_nav": "#676869",
+      "font_col_nav_hov": "#171717",
+      "panel_nav_bg": "#ffffff",
+      "nav_featured_col": "#df5641",
+      "image_overlay_text": "#ffffff",
+      "image_overlay_bg": "#171717",
+      "image_overlay_opacity": 10,
+      "image_overlay_shadow_opacity": 15,
+      "prod_over_redu_text": "#df5641",
+      "prod_over_redu_bg": "#ffffff",
+      "prod_over_low_bg": "#4c4c4b",
+      "prod_over_new_text": "#808284",
+      "prod_over_new_bg": "#ffffff",
+      "prod_label_sale_text": "#df5641",
+      "prod_label_sold_text": "#171717",
+      "prod_label_pre_text": "#60a57e",
+      "prod_over_meta_text": "#ffffff",
+      "prod_over_meta_bg": "#00a95b",
+      "prod_rating_star": "#f6a529",
+      "foot_bg_col": "#fbf9f6",
+      "foot_text_col": "#676869",
+      "foot_heading_col": "#171717",
+      "type_heading_font": "swiss_721_n5",
+      "capitalize_headings": false,
+      "type_base_font": "swiss_721_n4",
+      "bold_product_name_price": true,
+      "type_nav_font": "swiss_721_n4",
+      "type_logo_font": "swiss_721_n4",
+      "font_size_base_int": 14,
+      "font_size_heading_int": 32,
+      "font_size_feature_heading_1": 48,
+      "font_size_feature_heading_2": 60,
+      "font_size_nav_int": 14,
+      "font_size_logo_int": 24,
+      "button_border_radius": 30,
+      "button_hover_effect": "slide_up",
+      "product_card_color_scheme": "1",
+      "prod_thumb_blend": false,
+      "prod_thumb_crop_align": "center",
+      "prod_thumb_text_align": "center",
+      "prod_thumb_hover_image": true,
+      "quickbuy_style": "button",
+      "prod_block_label_loc": "top left",
+      "prod_stock_warn_show": true,
+      "prod_stock_warn_limit_int": 10,
+      "prod_sold_out_show": true,
+      "enable_product_reviews_collection": false,
+      "swatch_border_enable": true,
+      "swatch_style": "icon_circle",
+      "swatch_picker_image_size": 34,
+      "enable_filter_swatches": true,
+      "filter_swatch_layout": "no-label",
+      "search_type": "product,article,page",
+      "cart_type": "drawer",
+      "prod_thumb_show_options": true,
+      "button_shape": "slightlyrounded",
+      "alt_bg_col": "#f7f7f8",
+      "alt_bg_head_col": "#171717",
+      "alt_bg_text_col": "#676869",
+      "alt_bg_link_col": "#171717",
+      "prod_thumb_detail_bg": "#f7f7f8",
+      "prod_thumb_detail_col_h": "#171717",
+      "prod_thumb_detail_col": "#676869",
+      "prod_thumb_detail_col_a": "#171717",
+      "button_style": "normal",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "1478526632860": {
+              "type": "announcement",
+              "settings": {
+                "bg_col": "rgba(0,0,0,0)",
+                "text_col": "rgba(0,0,0,0)"
+              }
+            },
+            "1478526632861": {
+              "type": "announcement",
+              "settings": {
+                "bg_col": "#1d1d1b",
+                "text_col": "#ffffff"
+              }
+            }
+          },
+          "block_order": [
+            "1478526632860",
+            "1478526632861"
+          ],
+          "settings": {
+            "announcement_bar_col": "#00a95b",
+            "announcement_text_col": "#ffffff",
+            "message_font_size": 14,
+            "show_social_icons": true,
+            "menu": "",
+            "show_country_selector": true,
+            "show_language_selector": true
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "logo_img_width_int": 100,
+            "mobile_logo_img_width_int": 100,
+            "logo_h1": true,
+            "enable_sticky": true,
+            "menu_linklist": "main-menu",
+            "menu_linklist_mobile": "",
+            "menu_layout": "inline-menu-left",
+            "nav_featured_link": "Sale",
+            "enable_mobile_promo_carousel": true,
+            "enable_nav_mob_products": false,
+            "nav_mob_products_title": "Best Sellers",
+            "nav_mob_products_collection": "",
+            "enable_search": true,
+            "cart_icon": "basket",
+            "show_cart_icon_label": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1601308656020": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "button_style": "primary",
+                "show_social_icons": false,
+                "soc_icons_large": false
+              }
+            },
+            "1601308717434": {
+              "type": "text",
+              "settings": {
+                "image_width": 150,
+                "show_social_icons": true,
+                "soc_icons_large": false
+              }
+            }
+          },
+          "block_order": [
+            "1601308656020",
+            "1601308717434"
+          ],
+          "settings": {
+            "lower_menu": "footer",
+            "show_payment_icons": true,
+            "show_country_selector": true,
+            "show_language_selector": true
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "mode": "enabled",
+            "popup_delay_seconds": 6,
+            "popup_dismiss_for_days": 2,
+            "position": "center",
+            "title": "Join our community",
+            "text": "<p>Save 10% on your first order and be the first to know about our journey towards a better tomorrow.<\/p>",
+            "show_newsletter": true,
+            "show_social_icons": true
+          }
+        },
+        "cart-drawer": {
+          "type": "cart-drawer",
+          "settings": {
+            "enable_cart_notes": true,
+            "show_tax_and_shipping": true,
+            "cart_terms_page": "",
+            "enable_direct_cart": true,
+            "show_additional_checkout_buttons": true,
+            "show_backorder_text": true,
+            "enable_cross_sells": true,
+            "cross_sell_title": "You may like",
+            "enable_automatic_cross_sells": true
+          }
+        }
+      }
+    }
+  },
+  "current": {
+    "site_gutter": 8,
+    "card_border_radius": 5,
+    "enable_card_modals": true,
+    "page_container": 2000,
+    "font_col_base": "#000000",
+    "font_col_link": "#171717",
+    "font_col_shoptitle": "#171717",
+    "font_col_sale": "#e84844",
+    "btn_col": "#e84844",
+    "btn_col_alt": "#f6c2d9",
+    "btn_col_txt": "#ffffff",
+    "btn_alt_bg": "#ffffff",
+    "btn_alt_txt": "#e84844",
+    "card_1_text": "#000000",
+    "card_1_bg": "#fbf9f6",
+    "card_1_bg_grad": "",
+    "card_2_text": "#faf5ec",
+    "card_2_bg": "#e84844",
+    "card_3_text": "#00a95b",
+    "card_3_bg": "#faf5ec",
+    "bg_col": "#ffffff",
+    "bg_image": "",
+    "bg_method": "repeatxy",
+    "head_bg_col": "#ffffff",
+    "head_txt_col": "#171717",
+    "font_col_nav": "#333333",
+    "font_col_nav_hov": "#171717",
+    "panel_nav_bg": "#ffffff",
+    "nav_featured_col": "#e84844",
+    "image_overlay_text": "#ffffff",
+    "image_overlay_bg": "#171717",
+    "image_overlay_opacity": 0,
+    "image_overlay_shadow_opacity": 15,
+    "prod_over_redu_text": "#e84844",
+    "prod_over_redu_bg": "#ffffff",
+    "prod_over_low_bg": "#4c4c4b",
+    "prod_over_new_text": "#808284",
+    "prod_over_new_bg": "#ffffff",
+    "prod_label_sale_text": "#e84844",
+    "prod_label_sold_text": "#171717",
+    "prod_label_pre_text": "#f6c2d9",
+    "prod_over_meta_text": "#ffffff",
+    "prod_over_meta_bg": "#e84844",
+    "prod_inv_low_text": "#e84844",
+    "prod_inv_low_box": "#ffeaf3",
+    "prod_rating_star": "#f6a529",
+    "free_shipping_bar_col_under": "#e84844",
+    "foot_bg_col": "#f6c2d9",
+    "foot_text_col": "#ffffff",
+    "foot_heading_col": "#3b3b3b",
+    "type_heading_font": "swiss_721_n5",
+    "capitalize_headings": false,
+    "type_base_font": "swiss_721_n4",
+    "bold_product_name_price": true,
+    "type_nav_font": "swiss_721_n4",
+    "type_logo_font": "swiss_721_n4",
+    "font_size_base_int": 14,
+    "font_size_heading_int": 32,
+    "font_size_feature_heading_1": 48,
+    "font_size_feature_heading_2": 60,
+    "font_size_nav_int": 14,
+    "font_size_logo_int": 24,
+    "button_border_radius": 30,
+    "button_hover_effect": "slide_up",
+    "product_card_color_scheme": "1",
+    "prod_thumb_blend": false,
+    "prod_thumb_crop_align": "center",
+    "prod_thumb_mob_per_row": "2",
+    "prod_thumb_text_align": "center",
+    "prod_thumb_hover_image": true,
+    "quickbuy_style": "off",
+    "qb_show_app_blocks": true,
+    "prod_block_label_loc": "top left",
+    "prod_reduction_show": true,
+    "prod_reduction_type": "percent",
+    "prod_sold_out_show": true,
+    "prod_stock_warn_show": true,
+    "prod_stock_warn_limit_int": 10,
+    "prod_pre_order_label_show": true,
+    "enable_product_reviews_collection": true,
+    "swatch_enabled": false,
+    "swatch_border_enable": true,
+    "swatch_style": "icon_circle",
+    "swatch_picker_image_size": 34,
+    "enable_filter_swatches": true,
+    "filter_swatch_layout": "no-label",
+    "prod_thumb_swatches_layout": "inline",
+    "social_facebook_url": "https:\/\/www.facebook.com\/thelashrehabau",
+    "social_instagram_url": "https:\/\/www.instagram.com\/thelashrehabau\/",
+    "social_tiktok_url": "https:\/\/www.tiktok.com\/@thelashrehab?",
+    "enable_quick_header_search": true,
+    "search_type": "product,article,page",
+    "favicon": "shopify:\/\/shop_images\/lash_rehab_favicon.png",
+    "cart_type": "drawer",
+    "show_free_shipping_bar": false,
+    "free_shipping_amounts": "USD:4500",
+    "product_currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_PNG_3285f001-0637-496c-b539-e9b94481b89e.png",
+    "checkout_accent_color": "#f6c2d9",
+    "checkout_button_color": "#df5641",
+    "checkout_error_color": "#9720e2",
+    "prod_thumb_show_options": true,
+    "button_shape": "slightlyrounded",
+    "alt_bg_col": "#f7f7f8",
+    "alt_bg_head_col": "#171717",
+    "alt_bg_text_col": "#676869",
+    "alt_bg_link_col": "#171717",
+    "prod_thumb_detail_bg": "#f7f7f8",
+    "prod_thumb_detail_col_h": "#171717",
+    "prod_thumb_detail_col": "#676869",
+    "prod_thumb_detail_col_a": "#171717",
+    "button_style": "normal",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "1478526632860": {
+            "type": "announcement",
+            "settings": {
+              "text": "<p>Over 1500 5-Star Reviews ⭐⭐⭐⭐⭐<\/p>",
+              "bg_col": "#e84844",
+              "text_col": "#ffffff"
+            }
+          },
+          "1478526632861": {
+            "type": "announcement",
+            "settings": {
+              "text": "<p>Free Shipping Australia-Wide<\/p>",
+              "bg_col": "#df5641",
+              "text_col": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1478526632860",
+          "1478526632861"
+        ],
+        "settings": {
+          "announcement_bar_col": "#f6c2d9",
+          "announcement_text_col": "#ffffff",
+          "message_font_size": 13,
+          "show_social_icons": false,
+          "menu": "",
+          "show_country_selector": false,
+          "show_language_selector": false
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "4cba4ad2-6137-4b94-83e7-4d0a3d3dc139": {
+            "type": "menu-promotion-small",
+            "disabled": true,
+            "settings": {
+              "dropdown_link_title": "Shop",
+              "image": "shopify:\/\/shop_images\/lr-bb-how-img-3_-_2.jpg",
+              "bg_col": "#df5641",
+              "text_col": "#ffffff",
+              "title": "Shop Bon Bons",
+              "text": "Ti's the season for lash growth.",
+              "link_url": "shopify:\/\/collections\/bon-bons"
+            }
+          }
+        },
+        "block_order": [
+          "4cba4ad2-6137-4b94-83e7-4d0a3d3dc139"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Logo_PNG_7a9ad32c-46ba-438c-aaef-48fcd29003b6.png",
+          "logo_img_width_int": 150,
+          "mobile_logo_img_width_int": 130,
+          "logo_h1": true,
+          "enable_sticky": true,
+          "menu_linklist": "new-menu",
+          "menu_linklist_mobile": "",
+          "menu_layout": "inline-menu-center",
+          "nav_featured_link": "Sale",
+          "enable_mobile_promo_carousel": true,
+          "enable_nav_mob_products": false,
+          "nav_mob_products_title": "Best Sellers",
+          "nav_mob_products_collection": "all",
+          "enable_search": true,
+          "cart_icon": "bag",
+          "show_cart_icon_label": false,
+          "mob_f_text_1": "About Us",
+          "mob_f_link_1": "shopify:\/\/pages\/about-us",
+          "mob_f_text_2": "Press",
+          "mob_f_link_2": "shopify:\/\/blogs\/the-lash-rehab-blog",
+          "mob_f_text_3": "FAQs",
+          "mob_f_link_3": "shopify:\/\/pages\/faq",
+          "mob_f_text_4": "Results",
+          "mob_f_link_4": "shopify:\/\/pages\/results",
+          "mob_f_btntext": "BUILD YOUR BUNDLE & SAVE",
+          "mob_f_btnlink": "shopify:\/\/pages\/love-case-bundle-builder",
+          "btn_co": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1601308656020": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Join the GROWGANG",
+              "text": "<p>Sign up for 10% off your first order + exclusive offers to our partnerships with your favourite beauty brands.<\/p>",
+              "button_style": "primary",
+              "show_social_icons": true,
+              "soc_icons_large": true
+            }
+          },
+          "334b3e4c-ca76-4d22-876f-11945eebc928": {
+            "type": "menu",
+            "settings": {
+              "title": "Support",
+              "menu": "new-footer"
+            }
+          },
+          "1601308717434": {
+            "type": "text",
+            "settings": {
+              "title": "The Science Behind Longer Lashes",
+              "text": "<p>We believe your skincare should be, fun, effective and trustworthy with results that speak for themselves. That’s why our serums are scientifically formulated with the highest quality, clinically tested ingredients and are packed with nourishing active ingredients to strengthen, condition, and rehabilitate.<\/p>",
+              "image_width": 150,
+              "show_social_icons": false,
+              "soc_icons_large": false
+            }
+          }
+        },
+        "block_order": [
+          "1601308656020",
+          "334b3e4c-ca76-4d22-876f-11945eebc928",
+          "1601308717434"
+        ],
+        "settings": {
+          "lower_menu": "footer",
+          "show_payment_icons": true,
+          "show_country_selector": true,
+          "show_language_selector": true
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_delay_seconds": 6,
+          "popup_dismiss_for_days": 2,
+          "position": "center",
+          "title": "Join our community",
+          "text": "<p>Save 10% on your first order and be the first to know about our journey towards a better tomorrow.<\/p>",
+          "show_newsletter": true,
+          "show_social_icons": true
+        }
+      },
+      "cart-drawer": {
+        "type": "cart-drawer",
+        "settings": {
+          "enable_cart_notes": false,
+          "show_tax_and_shipping": false,
+          "cart_terms_page": "",
+          "enable_direct_cart": true,
+          "show_additional_checkout_buttons": false,
+          "show_backorder_text": true,
+          "enable_cross_sells": true,
+          "cross_sell_title": "Complete the Routine",
+          "cross_sell_products": [
+
+          ],
+          "enable_automatic_cross_sells": true
+        }
+      },
+      "vday-2023": {
+        "type": "vday-2023",
+        "settings": {
+          "heading": "Build your own <span>Lash Love Case<\/span> <br>and Save 15%.",
+          "image": "shopify:\/\/shop_images\/TLR_CREATIVE_AUG_2024PX-18_3.jpg"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "319724205969189013": {
+        "type": "shopify:\/\/apps\/hulk-form-builder\/blocks\/app-embed\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}

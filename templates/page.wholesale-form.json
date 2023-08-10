@@ -1,0 +1,25 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "925967ed-8bcf-4138-888a-619af6bb6044": {
+      "type": "wholesale-form",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lash-rehab-wholesale.jpg",
+        "header_1": "Wholesale Login",
+        "text_1": "<span>If you are <strong>an existing supplier<\/strong>:<\/span><br>\n<span>Please enter your password below to access our Wholesale product range.<\/span>",
+        "header_2": "Wholesale Sign Up",
+        "text_2": "<p>If you are <strong>not an existing supplier<\/strong>, but are interested in stocking our products: Please reach out via the form below with your details and we will get in touch with next steps. Otherwise, feel free to give our Wholesale team a call on <u>0409351183<\/u>.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "925967ed-8bcf-4138-888a-619af6bb6044"
+  ]
+}
