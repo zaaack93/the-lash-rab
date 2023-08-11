@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "70f3f902-baa6-4ada-9258-842ca8dcb6d9": {
+          "type": "promo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LR_FEB3_WEB_4.jpg",
+            "image_position": "center center",
+            "show_icon": false,
+            "icon": "star",
+            "title": "Build Your Own Bundle",
+            "text": "<p>Save 15%<\/p>",
+            "button_label": "Shop Now",
+            "button_style": "secondary",
+            "link": "shopify:\/\/pages\/love-case-bundle-builder",
+            "text_alignment": "center center",
+            "overlay_style": "shadow",
+            "position": 3,
+            "column_width": "single-desk-and-mob",
+            "color_scheme": "1",
+            "card_custom_text": "#333333",
+            "card_custom_bg": "#f6f6ef",
+            "card_custom_bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "70f3f902-baa6-4ada-9258-842ca8dcb6d9"
+      ],
+      "settings": {
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": true,
+        "coll_desc_pos": "above",
+        "heading_layout": "card",
+        "heading_card_filter_button": true,
+        "show_image_behind_heading": false,
+        "image_position": "center center",
+        "overlay_style": "shadow",
+        "color_scheme": "1",
+        "enable_filtering": true,
+        "coll_show_sort": true,
+        "coll_show_best_selling_sort": false,
+        "coll_show_manual_sort": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "filter_two_columns": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

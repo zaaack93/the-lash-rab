@@ -1,0 +1,378 @@
+{
+  "sections": {
+    "d21296a3-9fa4-4473-aa0b-b34c42fbb93d": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__d21296a3-9fa4-4473-aa0b-b34c42fbb93d-166796344490b96006-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lash_Rehab_giveaway.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "content_max_width": 800,
+            "subheading": "",
+            "title": "About Us",
+            "title_size": "hsl-style",
+            "use_h1": false,
+            "text": "<p>The Lash Rehab Story<\/p>",
+            "enlarge_text": true,
+            "button_label_1": "This is nice, but I'm here to shop!",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center",
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__d21296a3-9fa4-4473-aa0b-b34c42fbb93d-166796344490b96006-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "color_scheme": "1",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows top-right",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "d02c0742-5e83-4172-96ba-d8cf01885d17": {
+      "type": "media-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Spoil_Your_Lashes_3.png",
+        "image_link": "",
+        "video": "",
+        "autoplay": false,
+        "content_max_width": 800,
+        "subheading": "",
+        "title": "Our Philosophy",
+        "title_size": "h1-style",
+        "use_h1": false,
+        "text": "<p>We believe your skincare should be, fun, effective and trustworthy with results that speak for themselves. That’s why our serums are scientifically formulated with the highest quality, clinically tested ingredients and are packed with nourishing active ingredients to strengthen, condition, and rehabilitate. We believe everyone deserves beautiful long lashes, fluffy full brows and juicy plump lips. <\/p><p>We prioritise high quality, non-irritating ingredients and cut out all of the nasties catering to all skin types including the sensitive eyes.<\/p><p>Here's a list of our 'Non-Negotiables': Australian owned. 100% Vegan and cruelty free. No artificial fragrances. No Paraben and sulphates. Free of prostaglandin. No synthetic colours. 100% fragrance free. Suitable for all skin types.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "media_position": "left",
+        "enable_media_spacing": false,
+        "media_shape": "1",
+        "color_scheme": "1",
+        "heading_highlight_text": "",
+        "heading_highlight_font": true,
+        "heading_highlight_stencil": false,
+        "heading_highlight_color": "rgba(0,0,0,0)",
+        "heading_highlight_gradient": ""
+      }
+    },
+    "32f6a488-bcc4-4c26-8d58-6d60d328ecbb": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/VEGAN_PINK.jpg",
+            "image_width": 50,
+            "title": "Vegan & Cruelty Free",
+            "title_size": "h3-style",
+            "text": "<p>This one is a no-brainer! Of course our products have NOT been tested on animals. Our products are 100% vegan and cruelty free.<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "none"
+          }
+        },
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ALL_SKIN_TYPES_PINK.jpg",
+            "image_width": 50,
+            "title": "Formulated for All Skin Types",
+            "title_size": "h3-style",
+            "text": "<p>52% of the population have eyelid sensitivities that can become irritated when using harsh lash serums - that's why we developed the <a href=\"https:\/\/the-lash-rehab.myshopify.com\/products\/eyelash-enhancing-growth-serum-sensitive\" title=\"Eyelash Growth Serum - Sensitive\">Sensitive Eyelash Serum<\/a>.<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "none"
+          }
+        },
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/FREE_OF_PROSTAGLANDIN_PINK.jpg",
+            "image_width": 50,
+            "title": "Paraben & Sulfate Free",
+            "title_size": "h3-style",
+            "text": "<p>The Lash Rehab does NOT contain parabens, sulfate, artificial fragrances or colours, prostaglandin and any derivatives, so you are not to worry!<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-0",
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-1",
+        "template--16004362633409__32f6a488-bcc4-4c26-8d58-6d60d328ecbb-16679636513327a0e3-2"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "show_title": false,
+        "text_alignment": "center",
+        "button_style": "primary"
+      }
+    },
+    "1e1cb5ce-68be-4ecb-95f9-2d42c69b1773": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__1e1cb5ce-68be-4ecb-95f9-2d42c69b1773-16679636517adb793f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "The Science Behind Longer Lashes",
+            "title_size": "h1-style",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "template--16004362633409__1e1cb5ce-68be-4ecb-95f9-2d42c69b1773-16679636517adb793f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trusting in a product is so important, especially in today's world where there are so many brands promising so much - it can be very confusing and overwhelming. Which is why it is essential we have the science behind what we deliver. With years of teaching and educating on lash health and the lash life cycle creating a formula that targeted the three stages of lash life cycle was an obvious game changer in the creation of the The Lash Rehab.<\/p><p>The Lash Rehab uses a 'Triple Peptide Formula combined with natural active ingredients' scientifically formulated to target the three different stages of the lash growth cycle - Anagen, Catagen, Telogen.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__1e1cb5ce-68be-4ecb-95f9-2d42c69b1773-16679636517adb793f-0",
+        "template--16004362633409__1e1cb5ce-68be-4ecb-95f9-2d42c69b1773-16679636517adb793f-1"
+      ],
+      "settings": {
+        "height": "large",
+        "text_alignment": "center",
+        "color_scheme": "1",
+        "full_width": false
+      }
+    },
+    "143e2483-1676-4697-9b9f-e8769a269ab6": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/LR_Icons_GrowthScience_01_91dbe609-7003-4fc5-9960-ebe22489dcf7.png",
+            "image_width": 50,
+            "title": "The Anagen Stage",
+            "title_size": "h3-style",
+            "text": "<p>The Lash Rehab starts from the Anagen stage where it penetrates into the dermis to build a strong cellular foundation for the lash follicle.<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "1"
+          }
+        },
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/LR_Icons_GrowthScience_02.png",
+            "image_width": 50,
+            "title": "The Catagen Stage",
+            "title_size": "h3-style",
+            "text": "<p>Then in the Catagen stage the Lash Rehab focuses on the lash follicles, stimulating substantial growth at an early stage, combined with nourishing active ingredients for strength and conditioning.<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "1"
+          }
+        },
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/LR_Icons_GrowthScience_03.png",
+            "image_width": 50,
+            "title": "The Telogen Stage",
+            "title_size": "h3-style",
+            "text": "<p>Finally, in the Telogen stage, The Lash Rehab focuses on nourishing the natural lashes to prolong the lash lifecycle giving extended length to a normal lash life and thus longer, thicker and fuller lashes.<\/p>",
+            "button_label": "",
+            "link": "",
+            "color_scheme": "1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-0",
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-1",
+        "template--16004362633409__143e2483-1676-4697-9b9f-e8769a269ab6-16679636513327a0e3-2"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "show_title": false,
+        "text_alignment": "center",
+        "button_style": "primary"
+      }
+    },
+    "57675157-d338-4a21-be6e-a932e0cc2f20": {
+      "type": "media-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-01-14_at_2.21.44_pm.png",
+        "image_link": "",
+        "video": "",
+        "autoplay": false,
+        "content_max_width": 800,
+        "subheading": "",
+        "title": "Our Founders",
+        "title_size": "h1-style",
+        "use_h1": false,
+        "text": "<p>Lash Rehab was born from Byron Bay sisters, Violet and Kea Rogers. With over 16 years combined experience in the beauty industry and being owners and co-founders of four brow and lash bars across Australia, we are passionate about all things brows, lashes and beauty.<\/p><p>We know that long, healthy lashes can create a feeling of self-love that is essential for the modern-day woman. We wanted to continue to offer that service, even as the pandemic halted our ability to care for our community face to face, so we created Rehab Cosmetics. <br\/><\/p><p>Our products are vegan, cruelty free and entirely Australian owned. <\/p><p>What sets us apart from other lash serums is the science and education we put into our product that comes from over 10 years combined experience in the lashes and brows industry. We know that around 52% of the population have sensitive eyes, that’s why we are the only lash serum with an additional sensitive formula. <\/p><p>In this crazy world we are all living in, and as our lives continue to grow and change, we as sisters are so happy to be continuously offering our community high performance, quality products that we feel passionate about. All good things are born from love and true passion and we have that for each other and our GrowGang community.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "left",
+        "media_position": "left",
+        "enable_media_spacing": false,
+        "media_shape": "1",
+        "color_scheme": "none",
+        "heading_highlight_text": "",
+        "heading_highlight_font": true,
+        "heading_highlight_stencil": false,
+        "heading_highlight_color": "rgba(0,0,0,0)",
+        "heading_highlight_gradient": ""
+      }
+    },
+    "a2638080-23f8-427d-83a8-eeef25a110fc": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__a2638080-23f8-427d-83a8-eeef25a110fc-16679636517adb793f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "A Message From Our Co-Founder",
+            "title_size": "h1-style",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "template--16004362633409__a2638080-23f8-427d-83a8-eeef25a110fc-16679636517adb793f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“When Covid-19 temporarily closed our four BrowandLashCo salons, and our clients were looking for solutions, we had to think quick.<\/p><p>Violet and I found a gap in the market for a high quality, Australian owned and affordable products, with very quick and effective results.<\/p><p>During the lockdown period, our clients were able to rehabilitate, thicken and grow their natural lashes with The Lash Rehab from home. Once our salons reopened, our clients were able to continue the use of The Lash Rehab to enhance their lash treatments in conjunction with their lash extensions. <\/p><p>From the beginning we wanted to ensure we were creating an Australian owned products with a formula that was created with the highest quality, clinically proven ingredients that catered to all skin types. It’s taken us years to develop the perfect formulations that we are so proud to deliver.<\/p><p>We believe in enhancing natural beauty and creating products that nourish and repair whilst delivering incredible results. <\/p><p>We are so proud to deliver such a high quality, fast-acting lash serum.”<\/p><p>- Kea Rogers, <em>Director at The Lash Rehab.<\/em><\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__a2638080-23f8-427d-83a8-eeef25a110fc-16679636517adb793f-0",
+        "template--16004362633409__a2638080-23f8-427d-83a8-eeef25a110fc-16679636517adb793f-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "c713b23c-1a94-4f4f-8756-dbb62dd135ce": {
+      "type": "custom-row",
+      "disabled": true,
+      "blocks": {
+        "template--16004362633409__c713b23c-1a94-4f4f-8756-dbb62dd135ce-16679634751133a351-0": {
+          "type": "image",
+          "settings": {
+            "width": "half",
+            "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
+            "image_position": "center center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "",
+            "image_link": "",
+            "text_alignment": "center center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow",
+            "color_scheme": "none",
+            "heading_highlight_text": "",
+            "heading_highlight_font": false,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        },
+        "template--16004362633409__c713b23c-1a94-4f4f-8756-dbb62dd135ce-16679634751133a351-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Environmentally Conscious",
+            "title_size": "h1-style",
+            "text": "<p>At the forefront of our minds is always sustainability, we are continuously looking for ways we can improve our sustainability and reduce our carbon foot print. Due to the nature of our ingredients, it’s not always possible to be 100% bio-degradable which is why in the areas we can we do; our boxes, thank you cards and tissue paper are all 100% recyclable and eco-friendly. We are always looking for new and improved packaging options to improve our sustainability and reduce our waste without compromising our products.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left",
+            "color_scheme": "1",
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16004362633409__c713b23c-1a94-4f4f-8756-dbb62dd135ce-16679634751133a351-0",
+        "template--16004362633409__c713b23c-1a94-4f4f-8756-dbb62dd135ce-16679634751133a351-1"
+      ],
+      "settings": {
+        "alignment": "middle",
+        "color_scheme": "1"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "d21296a3-9fa4-4473-aa0b-b34c42fbb93d",
+    "d02c0742-5e83-4172-96ba-d8cf01885d17",
+    "32f6a488-bcc4-4c26-8d58-6d60d328ecbb",
+    "1e1cb5ce-68be-4ecb-95f9-2d42c69b1773",
+    "143e2483-1676-4697-9b9f-e8769a269ab6",
+    "57675157-d338-4a21-be6e-a932e0cc2f20",
+    "a2638080-23f8-427d-83a8-eeef25a110fc",
+    "c713b23c-1a94-4f4f-8756-dbb62dd135ce",
+    "main"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "a4379c86-bf6c-438f-8282-33cd16e1acb6": {
+      "type": "gallery",
+      "blocks": {
+        "template--16017010360513__a4379c86-bf6c-438f-8282-33cd16e1acb6-1671676587e58aaf17-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tlr_campaign_highres-51_Large_866f4764-ce20-4b15-b405-edbbf9a1466a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Transformations",
+            "title": "Check out the GROWGANG's results",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16017010360513__a4379c86-bf6c-438f-8282-33cd16e1acb6-1671676587e58aaf17-0"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": "h1-style",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "c713b23c-1a94-4f4f-8756-dbb62dd135ce": {
+      "type": "custom-row",
+      "blocks": {
+        "0ee4aa1c-45b4-4c08-b6b2-588c0b37ed86": {
+          "type": "html",
+          "settings": {
+            "width": "full",
+            "code": "<div id=\"looxReviews\" data-loox-aggregate data-view=\"layout:grid;\" data-mode=img><\/div>",
+            "color_scheme": "1"
+          }
+        }
+      },
+      "block_order": [
+        "0ee4aa1c-45b4-4c08-b6b2-588c0b37ed86"
+      ],
+      "settings": {
+        "alignment": "middle",
+        "color_scheme": "1"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "7f5e9e90-5c1a-4623-b581-0870222ada20": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "show_title": false,
+        "collection": "all",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "show_title_card": false,
+        "show_title_card_image": true,
+        "image_position": "center center",
+        "overlay_style": "shadow",
+        "color_scheme": "1"
+      }
+    }
+  },
+  "order": [
+    "a4379c86-bf6c-438f-8282-33cd16e1acb6",
+    "c713b23c-1a94-4f4f-8756-dbb62dd135ce",
+    "main",
+    "7f5e9e90-5c1a-4623-b581-0870222ada20"
+  ]
+}

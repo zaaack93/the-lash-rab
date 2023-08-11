@@ -1,0 +1,130 @@
+<div class="rdc-wsale-form-main">
+<div class="rdc-wsale-form-inner rdc-d-flex rdc-fw-wrap">
+<div class="rdc-wsale-form-img rdc-w-50p rdc-mm-w-full">
+<img src="{{ section.settings.image | img_url: "1000x" }}">
+</div>
+<div class="rdc-wsale-form-form rdc-w-50p rdc-mm-w-full rdc-p-5p-10p rdc-mm-p-5p">
+  <div class="rdc-wsale-form-form-inner">
+<div class="rdc-wsale-form-login rdc-mb-40">
+  <h2>{{ section.settings.header_1 }}</h2>
+  <p>{{ section.settings.text_1 }}</p>
+{% form 'customer_login' %}
+{{ form.errors | default_errors }}
+
+   <div class="rdc-wsale-login-inputs rdc-d-flex">
+<div class="email rdc-w-50p rdc-d-flex rdc-ff-column rdc-pr-10 rdc-mm-pr-5 rdc-mb-10">
+  <label for="email">Email</label>
+  <input type="email" name="customer[email]">
+</div>
+
+<div class="password rdc-w-50p rdc-d-flex rdc-ff-column rdc-pl-10 rdc-mm-pl-5 rdc-mb-10">
+  <label for="password">Password</label>
+  <input type="password" name="customer[password]">
+</div>
+   </div>
+
+<div class="submit rdc-mt-20">
+  <input id="rdc-wsale-redirect" type="hidden" name="return_to">
+  <input type="submit" value="Access now">
+</div>
+{% endform %}
+</div>
+    <div class="rdc-wsale-form-signup">
+  <h2>{{ section.settings.header_2 }}</h2>
+  <p>{{ section.settings.text_2 }}</p>
+
+
+      <div style="margin:0 auto;" class="pxFormGenerator" id="JtW36ojPqKu_J99BBOnL8Q"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+{% comment %}
+              {% form 'contact' %}
+{{ form.errors | default_errors }}
+
+       <div class="rdc-d-flex">
+         
+<div class="full-name rdc-w-50p rdc-d-flex rdc-ff-column rdc-pr-10 rdc-mm-pr-5 rdc-mb-10">
+  <label for="full-name">Name</label>
+  <input type="text" name="contact[full-name]" id="full-name" />
+</div>
+
+<div class="email rdc-w-50p rdc-d-flex rdc-ff-column rdc-pl-10 rdc-mm-pl-5 rdc-mb-10">
+  <label for="email">Email</label>
+  <input type="email" name="contact[email]" id="email" />
+</div>
+       </div>
+
+       <div class="rdc-d-flex">
+<div class="store-name rdc-w-50p rdc-d-flex rdc-ff-column rdc-pr-10 rdc-mm-pr-5 rdc-mb-10">
+  <label for="store-name">Store name</label>
+  <input type="text" name="contact[store-name]" id="store-name" />
+</div>
+
+<div class="phone rdc-w-50p rdc-d-flex rdc-ff-column rdc-pl-10 rdc-mm-pl-5 rdc-mb-10">
+  <label for="phone">Phone</label>
+  <input type="tel" name="contact[phone]" id="phone" />
+</div>
+       </div>
+
+<div class="message rdc-d-flex rdc-ff-column rdc-mb-10">
+  <label for="message">Message</label>
+  <textarea name="contact[body]" id="message"></textarea>
+</div>
+
+<div class="submit rdc-mt-20">
+  <input type="submit" value="Send" />
+</div>
+{% endform %}
+{% endcomment %}
+
+{% schema %}
+{
+  "name": "Wholesale Form",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "header_1",
+      "label": "Login header"
+    },
+    {
+      "type": "textarea",
+      "id": "text_1",
+      "label": "Login text"
+    },
+    {
+      "type": "text",
+      "id": "header_2",
+      "label": "Signup header"
+    },
+    {
+      "type": "textarea",
+      "id": "text_2",
+      "label": "Signup text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Wholesale Form"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+
+{% comment %}
+<div style="margin:0 auto;" class="pxFormGenerator" id="YyY7fHrAm2hODsrLrwZJyg"></div>
+{% endcomment %}
