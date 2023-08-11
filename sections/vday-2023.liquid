@@ -3,7 +3,7 @@
     <div class="bonbon-hero rdc-d-flex rdc-ai-c">
    <div class="bonbon-hero-text rdc-w-50p">
 <h1 class="rdc-f-size-xxlarge">{{ section.settings.heading }}</h1>
-      <p class="rdc-f-size-reg">Only while stocks last.</p>
+      <p class="rdc-f-size-reg">{{section.settings.subheading }}</p>
      <a href="#bonbon-choose" class="rdc-d-flex"><span class="rdc-f-size-large">Start Now</span></a>
     </div>
         <div class="bonbon-hero-img rdc-w-50p rdc-d-flex">
@@ -150,7 +150,7 @@
           </div>
          <div class="bonbon-review-item-right">
 <div><span class="bb-card-price-old rdc-f-size-medium">$39.95</span>
-<span class="bb-card-price-new rdc-f-size-medium">$33,96</span></div>
+<span class="bb-card-price-new rdc-f-size-medium">$33.96</span></div>
            </div>
       </div>
           <div class="bonbon-review-items">
@@ -170,6 +170,11 @@
         "type": "text",
         "id": "heading",
         "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "subheading",
+        "label": "Subheading"
       },
        {
         "type": "image_picker",
