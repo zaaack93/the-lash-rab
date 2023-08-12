@@ -68,7 +68,7 @@
       <p class="rdc-text-center rdc-f-size-reg rdc-m-0">Choose 2 or more products from the available options below to unlock your 15% discount.</p>
         <div class="bonbon-cards rdc-d-flex rdc-flex-w rdc-pt-4p">
       {% for product in collections['bonbon-15'].products %}
-        {% if product.variants.size == 1 %}
+        {% if product.variants.size == 1 and product.id != 7392318226625 %}
             <div class="bonbon-card rdc-p-20 rdc-w-33p {% if product.handle == 'love-case' %}rdc-d-none{% else %}rdc-d-flex{% endif %} rdc-jc-sb">
           <div class="bonbon-card-upper">
               <img src="{{ product.featured_image | img_url: "500x" }}">

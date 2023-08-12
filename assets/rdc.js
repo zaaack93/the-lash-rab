@@ -178,31 +178,28 @@ cartItemQtyArr[itemIndex] = thisrunningQty
   setTimeout(function () {
       fetch(window.Shopify.routes.root + 'cart.js')
   .then(response => response.json())
-  .then(data => {
-
+  .then(async function(data) {
     console.log(data)
     if(data.item_count > 1) {
 
 if(data.item_count == 2) {
         let addBonBon = {
  'items': [{
-  'id': 42432000819393,
+  'id': 42047827738817,
   'quantity': 1
   }]
 };
 
-  
-fetch(window.Shopify.routes.root + 'cart/add.js', {
+await fetch(window.Shopify.routes.root + 'cart/add.js', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json'
   },
   body: JSON.stringify(addBonBon)
-})
-.then(response => { return response.json()})
-.catch((error) => {
-  console.error('Error:', error);
-});
+}).then(response => response.json())
+
+data=await fetch(window.Shopify.routes.root + 'cart.js')
+  .then(response => response.json())
 }
    
       cartFREE.classList.remove('rdc-d-none')
@@ -213,7 +210,6 @@ fetch(window.Shopify.routes.root + 'cart/add.js', {
 
       
     } 
-
              let totalSummaryContent = `<span class="bb-card-price-old">$${(data.original_total_price/100).toFixed(2)}</span>
                <span class="bb-card-price-new rdc-f-size-medium">$${((data.original_total_price*.85)/100).toFixed(2)}</span>`
     
