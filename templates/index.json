@@ -5,22 +5,23 @@
       "blocks": {
         "16359276425da8ce46-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Landscape_hero_1.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Lash_Rehab_-_Hero.jpg",
+            "image": "shopify:\/\/shop_images\/tlr_campaign_web-36_2_0d641b74-a7dd-47b7-b2b6-db4baf36596e.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Untitled_design_42.jpg",
             "image_position": "center center",
             "mobile_image_position": "center center",
             "slide_link": "",
             "content_max_width": 800,
             "subheading": "Australia's #1 Lash Growth Serum",
-            "title": "Longer, fuller, thicker lashes in 90 days.",
+            "title": "Longer, thicker lashes in 30 days.",
             "title_size": "hsl-style",
             "use_h1": false,
             "text": "",
             "enlarge_text": true,
             "button_label_1": "",
             "button_url_1": "",
-            "button_label_2": "Shop All",
+            "button_label_2": "SHOP ALL PRODUCTS",
             "button_url_2": "shopify:\/\/collections\/all",
             "text_alignment": "bottom left",
             "heading_highlight_text": "",
@@ -28,10 +29,10 @@
             "heading_highlight_stencil": false,
             "heading_highlight_color": "#ffffff",
             "heading_highlight_gradient": "",
-            "mob_title": "Longer, fuller, thicker lashes in less than 90 days.",
+            "mob_title": "Longer, thicker lashes in 30 days.",
             "mob_pri_btn_link": "shopify:\/\/collections\/all",
             "mob_pri_btn_text": "SHOP ALL PRODUCTS",
-            "mob_btn_co": "Grow your lashes or get your money back.",
+            "mob_btn_co": "100% Safe and Natural Serum.",
             "mob_sec_btn_link": "",
             "mob_sec_btn_text": "",
             "mob_sp": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0503\/1336\/3649\/files\/lash_stars.svg\"><span>4.8<\/span><span>1,614 Reviews<\/span>"
@@ -39,10 +40,9 @@
         },
         "2f2291ef-5d32-4a61-9c15-bc50d8ebe060": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/30_OFF_1.png",
-            "mobile_image": "shopify:\/\/shop_images\/30_OFF_2.png",
+            "image": "shopify:\/\/shop_images\/Digital_Banner_3.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/40.jpg",
             "image_position": "center center",
             "mobile_image_position": "center center",
             "slide_link": "",
@@ -54,8 +54,43 @@
             "text": "",
             "enlarge_text": true,
             "button_label_1": "",
-            "button_url_1": "",
+            "button_url_1": "shopify:\/\/collections\/all",
             "button_label_2": "",
+            "button_url_2": "shopify:\/\/collections\/all",
+            "text_alignment": "bottom left",
+            "heading_highlight_text": "",
+            "heading_highlight_font": false,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": "",
+            "mob_title": "",
+            "mob_pri_btn_link": "shopify:\/\/collections\/all",
+            "mob_pri_btn_text": "Shop all",
+            "mob_btn_co": "",
+            "mob_sec_btn_link": "",
+            "mob_sec_btn_text": "",
+            "mob_sp": ""
+          }
+        },
+        "6b0b96da-8f9e-4bbe-a605-b10a3d55eaaa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1f83de34-8014-4703-b054-df30bf4cb310.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/2_d95fbb1a-34c5-4743-ba81-9350d0e8b2ec.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "content_max_width": 800,
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "title_size": "hsl-style",
+            "use_h1": false,
+            "text": "<p>And optional subtext<\/p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
             "button_url_2": "",
             "text_alignment": "center center",
             "heading_highlight_text": "",
@@ -63,19 +98,20 @@
             "heading_highlight_stencil": false,
             "heading_highlight_color": "rgba(0,0,0,0)",
             "heading_highlight_gradient": "",
-            "mob_title": "Longer, fuller, thicker lashes in less than 90 days",
-            "mob_pri_btn_link": "shopify:\/\/collections\/all",
-            "mob_pri_btn_text": "Shop All",
+            "mob_title": "",
+            "mob_pri_btn_link": "",
+            "mob_pri_btn_text": "",
             "mob_btn_co": "",
             "mob_sec_btn_link": "",
             "mob_sec_btn_text": "",
-            "mob_sp": "Over 1500 5-star reviews"
+            "mob_sp": ""
           }
         }
       },
       "block_order": [
         "16359276425da8ce46-1",
-        "2f2291ef-5d32-4a61-9c15-bc50d8ebe060"
+        "2f2291ef-5d32-4a61-9c15-bc50d8ebe060",
+        "6b0b96da-8f9e-4bbe-a605-b10a3d55eaaa"
       ],
       "settings": {
         "height": "fixed",
@@ -180,60 +216,8 @@
         "custom_scheme_bg_grad": ""
       }
     },
-    "41ae6b76-7a4b-4167-bffb-ea6a7f459477": {
-      "type": "press-section",
-      "blocks": {
-        "1e7358e5-d3e6-4139-9d0b-638c389e36a0": {
-          "type": "press",
-          "settings": {
-            "press_logo": "shopify:\/\/shop_images\/lash_press_white_2_4e3a6fae-1ad7-4da1-abb4-b15cdc099fd2.png",
-            "press_text": "\"Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
-          }
-        },
-        "6cae0169-d107-4ae5-bbd1-86e93b1ba517": {
-          "type": "press",
-          "settings": {
-            "press_logo": "shopify:\/\/shop_images\/lash_press_white_1_007359f1-c442-421c-a0bd-274b7316214c.png",
-            "press_text": "\"This Aussie brand is branching out from its iconic lash products, launching a range of lip products including this vitamin E-enriched oil. It’s non-sticky and provides a subtle pink tint.\""
-          }
-        },
-        "d6e5f142-788b-4d9f-a65a-aa0b8f13fe5e": {
-          "type": "press",
-          "settings": {
-            "press_logo": "shopify:\/\/shop_images\/cf_1.png",
-            "press_text": "\"The Lash Rehab has combined its incredible lash serum with a smudge-resistant mascara that leaves lashes looking lifted and volumised. The water-resistant formula also boosts lash strength, length and health.\""
-          }
-        },
-        "49d6dcd7-6307-4ce7-9f27-2c878c510063": {
-          "type": "press",
-          "disabled": true,
-          "settings": {
-            "press_logo": "shopify:\/\/shop_images\/lash_press_white_2_4e3a6fae-1ad7-4da1-abb4-b15cdc099fd2.png",
-            "press_text": "4 “Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
-          }
-        },
-        "5b1e3bdb-95bc-4f89-a472-4f7b8e355390": {
-          "type": "press",
-          "disabled": true,
-          "settings": {
-            "press_logo": "shopify:\/\/shop_images\/lash_press_white_1_007359f1-c442-421c-a0bd-274b7316214c.png",
-            "press_text": "5 “Eyelash curlers and mascara have long been a staple in my beauty routine, but without makeup, my lashes are anything but luscious...\nEnter: The Lash Rehab, aka my eyelashes' new bestie.”"
-          }
-        }
-      },
-      "block_order": [
-        "1e7358e5-d3e6-4139-9d0b-638c389e36a0",
-        "6cae0169-d107-4ae5-bbd1-86e93b1ba517",
-        "d6e5f142-788b-4d9f-a65a-aa0b8f13fe5e",
-        "49d6dcd7-6307-4ce7-9f27-2c878c510063",
-        "5b1e3bdb-95bc-4f89-a472-4f7b8e355390"
-      ],
-      "settings": {
-      }
-    },
     "00774247-7f70-48c5-85dd-2ea1920fa320": {
       "type": "custom-row",
-      "disabled": true,
       "blocks": {
         "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-0": {
           "type": "image",
@@ -286,6 +270,7 @@
         "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-0",
         "template--16004362502337__00774247-7f70-48c5-85dd-2ea1920fa320-16759125739e347885-1"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "middle",
         "color_scheme": "none"
@@ -294,7 +279,7 @@
     "16359278676808bea5": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Best Sellers",
+        "title": "shop the sale",
         "show_title": true,
         "collection": "all",
         "show_vendor": true,
@@ -306,6 +291,195 @@
         "image_position": "center center",
         "overlay_style": "shadow",
         "color_scheme": "1"
+      }
+    },
+    "996d4e40-db54-4f42-b374-083ef9a2f681": {
+      "type": "gallery",
+      "blocks": {
+        "template--16221552640193__996d4e40-db54-4f42-b374-083ef9a2f681-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_26.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16221552640193__996d4e40-db54-4f42-b374-083ef9a2f681-image-1"
+      ],
+      "settings": {
+        "grid": 1,
+        "height": "adapt",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": "h1-style",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "5932ca43-0ef9-478c-b255-88cf7e07d61d": {
+      "type": "gallery",
+      "blocks": {
+        "template--16221552640193__5932ca43-0ef9-478c-b255-88cf7e07d61d-image-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_27.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16221552640193__5932ca43-0ef9-478c-b255-88cf7e07d61d-image-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": "h1-style",
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "c9121193-0dac-45ea-b723-158f9981a881": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-title-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-price-1": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-vendor-1": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-divider-1": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "dropdown",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true
+          }
+        },
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-description-1": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": true,
+            "open_tab": false,
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-title-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-price-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-vendor-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-divider-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-variant_picker-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-buy_buttons-1",
+        "template--16221552640193__c9121193-0dac-45ea-b723-158f9981a881-description-1"
+      ],
+      "settings": {
+        "product": "super-bundle",
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": false,
+        "color_scheme": "1",
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1635927863703110df": {
+      "type": "rich-text",
+      "blocks": {
+        "1635927863703110df-1": {
+          "type": "heading",
+          "settings": {
+            "title": "90 day longer lashes guarantee or your money back!",
+            "title_size": "h1-style",
+            "use_h1": false,
+            "heading_highlight_text": "",
+            "heading_highlight_font": true,
+            "heading_highlight_stencil": false,
+            "heading_highlight_color": "rgba(0,0,0,0)",
+            "heading_highlight_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635927863703110df-1"
+      ],
+      "settings": {
+        "height": "large",
+        "text_alignment": "center",
+        "color_scheme": "2",
+        "full_width": true
+      }
+    },
+    "166900641156d83f32": {
+      "type": "apps",
+      "blocks": {
+        "263dda31-7978-4dab-b1a0-2c8257810e45": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-agg-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 24,
+            "maxwidth": 1840
+          }
+        }
+      },
+      "block_order": [
+        "263dda31-7978-4dab-b1a0-2c8257810e45"
+      ],
+      "settings": {
       }
     },
     "16359281184fd0d618": {
@@ -362,8 +536,9 @@
         "4e0c6bd2-c5a1-4a35-8ef0-7bd09dace120",
         "864a6699-4eb5-4f3b-9b09-dfd7c4ffcae9"
       ],
+      "disabled": true,
       "settings": {
-        "title": "1800+ 5-Star Reviews",
+        "title": "1000's 5-Star Reviews",
         "show_title": true,
         "enable_images": true,
         "image_shape": "square",
@@ -372,106 +547,6 @@
         "title_size": "h3-style",
         "autoplay": true,
         "autoplay_speed": 5
-      }
-    },
-    "1635927863703110df": {
-      "type": "rich-text",
-      "blocks": {
-        "1635927863703110df-1": {
-          "type": "heading",
-          "settings": {
-            "title": "The Science Behind Longer Lashes",
-            "title_size": "h1-style",
-            "use_h1": false,
-            "heading_highlight_text": "",
-            "heading_highlight_font": true,
-            "heading_highlight_stencil": false,
-            "heading_highlight_color": "rgba(0,0,0,0)",
-            "heading_highlight_gradient": ""
-          }
-        },
-        "1635927863703110df-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With over a decade experience in the brow and lash industry, we are experts in lash health. Owned here in Australia, our triple peptide formula uses clinically-tested ingredients to ensure rapid lash growth, while maintaining the health of lashes. <\/p>",
-            "enlarge_text": true
-          }
-        },
-        "ce5dda3c-b365-4ec5-86bd-633adaf62caa": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE ABOUT US",
-            "button_link": "shopify:\/\/pages\/about-us",
-            "button_style": "secondary"
-          }
-        }
-      },
-      "block_order": [
-        "1635927863703110df-1",
-        "1635927863703110df-2",
-        "ce5dda3c-b365-4ec5-86bd-633adaf62caa"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "color_scheme": "2",
-        "full_width": true
-      }
-    },
-    "997fb397-f39d-4c28-9617-700c6973c624": {
-      "type": "collection-list",
-      "blocks": {
-        "7a8aa8be-0980-410f-a323-ef9f71bce6ed": {
-          "type": "collection",
-          "settings": {
-            "collection": "all",
-            "image": "shopify:\/\/shop_images\/Giveaway.jpg"
-          }
-        },
-        "91f29147-f9be-43a7-9841-28155811a6b9": {
-          "type": "collection",
-          "settings": {
-            "collection": "lash"
-          }
-        },
-        "3894374a-86b4-460e-8309-4f40d571370d": {
-          "type": "collection",
-          "settings": {
-            "collection": "lip"
-          }
-        },
-        "aa5a44a3-4929-4449-bdbb-5ec0a5e65257": {
-          "type": "collection",
-          "settings": {
-            "collection": "brow"
-          }
-        },
-        "1dd5dd87-a9a4-426b-9a8d-aa9b95400abe": {
-          "type": "collection",
-          "settings": {
-            "collection": "bundles"
-          }
-        },
-        "95269b65-ddcf-4dd4-9fdd-ee8c7a1150f0": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-lash-rehab-wholesale-12-pack"
-          }
-        }
-      },
-      "block_order": [
-        "7a8aa8be-0980-410f-a323-ef9f71bce6ed",
-        "91f29147-f9be-43a7-9841-28155811a6b9",
-        "3894374a-86b4-460e-8309-4f40d571370d",
-        "aa5a44a3-4929-4449-bdbb-5ec0a5e65257",
-        "1dd5dd87-a9a4-426b-9a8d-aa9b95400abe",
-        "95269b65-ddcf-4dd4-9fdd-ee8c7a1150f0"
-      ],
-      "settings": {
-        "title": "Shop By Collection",
-        "show_title": true,
-        "enable_carousel": false,
-        "grid": 3
       }
     },
     "16359285201c71bbb1": {
@@ -580,35 +655,6 @@
     },
     "1667884810e965a0cc": {
       "type": "apps",
-      "blocks": {
-        "6dc95e6d-9c65-4efe-a6e6-f1d8f97b1d5a": {
-          "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
-          "settings": {
-            "title": "GROWGANG GRAM",
-            "subheading": "<p>Follow for all the lash loving inspo your heart desires.<\/p>",
-            "button_text": "",
-            "button_link": "",
-            "layout": "grid",
-            "image_size": "large",
-            "add_spacing": true,
-            "rows_count": 1,
-            "show_author": false,
-            "show_caption": true,
-            "show_date": true,
-            "click_action": "open_instagram",
-            "heading_color": "#000000",
-            "subheading_color": "#000000",
-            "button_background": "#000000",
-            "button_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_text_color": "#ffffff",
-            "overlay_opacity": 65
-          }
-        }
-      },
-      "block_order": [
-        "6dc95e6d-9c65-4efe-a6e6-f1d8f97b1d5a"
-      ],
       "settings": {
       }
     },
@@ -709,29 +755,25 @@
         "custom_scheme_bg": "#f6f6ef",
         "custom_scheme_bg_grad": ""
       }
-    },
-    "166900641156d83f32": {
-      "type": "apps",
-      "settings": {
-      }
     }
   },
   "order": [
     "16359276425da8ce46",
     "16615097564a250284",
-    "41ae6b76-7a4b-4167-bffb-ea6a7f459477",
     "00774247-7f70-48c5-85dd-2ea1920fa320",
     "16359278676808bea5",
-    "16359281184fd0d618",
+    "996d4e40-db54-4f42-b374-083ef9a2f681",
+    "5932ca43-0ef9-478c-b255-88cf7e07d61d",
+    "c9121193-0dac-45ea-b723-158f9981a881",
     "1635927863703110df",
-    "997fb397-f39d-4c28-9617-700c6973c624",
+    "166900641156d83f32",
+    "16359281184fd0d618",
     "16359285201c71bbb1",
     "9bc9e42a-fede-4992-bedd-9d67667f63fd",
     "ab7e123a-5329-4593-9ef8-7c3b787f712b",
     "d8602185-9347-4b77-8512-6376b2d43107",
     "1667884810e965a0cc",
     "a1f468c3-3fb1-4215-8fba-7d104d5b8ea4",
-    "c1a7b2fd-f6f1-4230-9949-9d33a1a02cc4",
-    "166900641156d83f32"
+    "c1a7b2fd-f6f1-4230-9949-9d33a1a02cc4"
   ]
 }
