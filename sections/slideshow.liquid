@@ -127,17 +127,24 @@
         </div>
 
               <div class="lash-slide-mob-lower rdc-text-center rdc-p-20 rdc-d-flex rdc-ai-c rdc-jc-c rdc-ff-column">
+                {% if block.settings.mob_sp != blank %}
           <div class="lash-slide-mob-sp rdc-d-flex rdc-ai-c rdc-jc-c">{{ block.settings.mob_sp }}</div>
+          {%endif%}
+          {%if block.settings.mob_title !=blank %}
                 <div class="lash-slide-mob-title">
                   <h2 class="rdc-mx-auto">{{ block.settings.mob_title }}</h2>
                 </div>
-                
+              {%endif%}
+              {% if block.settings.mob_pri_btn_text !=blank%}
                 <div class="lash-slide-mob-btn rdc-my-10 rdc-w-full">
               <a class="rdc-d-flex rdc-ai-c rdc-jc-c rdc-w-full" href="{{ block.settings.mob_pri_btn_link }}"><span class="rdc-w-full">{{ block.settings.mob_pri_btn_text }}</span></a>
                 </div>
+                {%endif%}
+                {% if block.settings.mob_btn_co !=blank%}
                 <div class="lash-slide-mob-btn-co">
                   <p class="rdc-m-0">{{ block.settings.mob_btn_co }}</p>
                 </div>
+                {%endif%}
         </div>
           
         </div>

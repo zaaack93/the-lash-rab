@@ -342,7 +342,8 @@ span.rdc-shipping-gauge {
 }
 
 .lash-slide-mob-btn a span {
-    background-color: #DF5641;
+  background: #c71241;
+  border: 1.5px solid #c71241;
     color: #fff;
     border-radius: 100px;
     padding: 10px 20px;
